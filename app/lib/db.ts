@@ -1,0 +1,134 @@
+import Database from 'better-sqlite3';
+import path from 'path';
+import fs from 'fs';
+import bcrypt from 'bcryptjs';
+
+const DB_PATH = path.join(process.cwd(), 'data', 'store.db');
+
+let db: Database.Database | null = null;
+
+export function getDb(): Database.Database {
+  if (db) return db;
+  fs.mkdirSync(path.dirname(DB_PATH), { recursive: true });
+  db = new Database(DB_PATH);
+  db.pragma('journal_mode = WAL');
+  return db;
+}
+
+export function initDb() {
+  const db = getDb();
+
+  db.exec(`
+    CREATE TABLE IF NOT EXISTS users (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      name TEXT NOT NULL,
+      email TEXT NOT NULL UNIQUE,
+      password TEXT NOT NULL,
+      role TEXT NOT NULL DEFAULT 'customer',
+      created_at DATETIME DEFAULT CURRENT_TIMESTAMP
+    );
+
+    CREATE TABLE IF NOT EXISTS products (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      name TEXT NOT NULL,
+      description TEXT,
+      price INTEGER NOT NULL,
+      image TEXT,
+      image_blob BLOB,
+      image_type TEXT,
+      category TEXT NOT NULL DEFAULT 't-shirt',
+      sizes TEXT NOT NULL DEFAULT 'S,M,L,XL',
+      stock INTEGER NOT NULL DEFAULT 0,
+      active INTEGER NOT NULL DEFAULT 1,
+      created_at DATETIME DEFAULT CURRENT_TIMESTAMP
+    );
+
+    CREATE TABLE IF NOT EXISTS orders (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      user_id INTEGER NOT NULL,
+      total INTEGER NOT NULL,
+      status TEXT NOT NULL DEFAULT 'pending',
+      shipping_address TEXT NOT NULL,
+      created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
+      FOREIGN KEY (user_id) REFERENCES users(id)
+    );
+
+    CREATE TABLE IF NOT EXISTS order_items (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      order_id INTEGER NOT NULL,
+      product_id INTEGER NOT NULL,
+      quantity INTEGER NOT NULL,
+      size TEXT NOT NULL,
+      price INTEGER NOT NULL,
+      FOREIGN KEY (order_id) REFERENCES orders(id),
+      FOREIGN KEY (product_id) REFERENCES products(id)
+    );
+
+    CREATE TABLE IF NOT EXISTS banners (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      title TEXT NOT NULL,
+      subtitle TEXT,
+      image_url TEXT,
+      image_blob BLOB,
+      image_type TEXT,
+      link_url TEXT NOT NULL DEFAULT '/',
+      active INTEGER NOT NULL DEFAULT 1,
+      sort_order INTEGER NOT NULL DEFAULT 0,
+      created_at DATETIME DEFAULT CURRENT_TIMESTAMP
+    );
+  `);
+
+  // Migrate: add image_blob/image_type columns if missing
+  try { db.exec("ALTER TABLE products ADD COLUMN image_blob BLOB"); } catch { /* already exists */ }
+  try { db.exec("ALTER TABLE products ADD COLUMN image_type TEXT"); } catch { /* already exists */ }
+  try { db.exec("ALTER TABLE banners ADD COLUMN image_blob BLOB"); } catch { /* already exists */ }
+  try { db.exec("ALTER TABLE banners ADD COLUMN image_type TEXT"); } catch { /* already exists */ }
+
+  // Seed some products if none exist
+  const count = db.prepare('SELECT COUNT(*) as count FROM products').get() as { count: number };
+  if (count.count === 0) {
+    const insert = db.prepare(`
+      INSERT INTO products (name, description, price, image, category, sizes, stock)
+      VALUES (?, ?, ?, ?, ?, ?, ?)
+    `);
+    const products = [
+      ['Classic White Tee', 'Premium cotton white t-shirt. Clean, minimal, timeless.', 2990, '/products/white.jpg', 't-shirt', 'S,M,L,XL', 50],
+      ['Vintage Black Tee', 'Soft-wash black t-shirt with a lived-in feel.', 3490, '/products/black.jpg', 't-shirt', 'S,M,L,XL', 40],
+      ['Navy Blue Tee', 'Deep navy cotton t-shirt for everyday wear.', 2990, '/products/navy.jpg', 't-shirt', 'S,M,L,XL', 35],
+      ['Heather Grey Tee', 'Comfortable heather grey blend t-shirt.', 2790, '/products/grey.jpg', 't-shirt', 'S,M,L,XL', 45],
+      ['Forest Green Tee', 'Earthy forest green t-shirt. Nature inspired.', 3490, '/products/green.jpg', 't-shirt', 'S,M,L,XL', 30],
+      ['Oversized Boxy Tee', 'Relaxed oversized fit. Streetwear essential.', 3990, '/products/boxy.jpg', 't-shirt', 'S,M,L,XL', 25],
+      ['Striped Tee', 'Classic horizontal stripes. Never goes out of style.', 3290, '/products/striped.jpg', 't-shirt', 'S,M,L,XL', 20],
+      ['Graphic Logo Tee', 'Minimal brand logo on chest. Subtle statement.', 3990, '/products/logo.jpg', 't-shirt', 'S,M,L,XL', 40],
+    ];
+    for (const p of products) {
+      insert.run(...p);
+    }
+  }
+
+  // Seed admin user if none exists
+  const adminCount = db.prepare("SELECT COUNT(*) as count FROM users WHERE role = 'admin'").get() as { count: number };
+  if (adminCount.count === 0) {
+    const hashed = bcrypt.hashSync('admin123', 10);
+    db.prepare("INSERT INTO users (name, email, password, role) VALUES (?, ?, ?, ?)").run(
+      'Admin',
+      'admin@bene.com',
+      hashed,
+      'admin'
+    );
+  }
+
+  // Seed demo banners if none exist
+  const bannerCount = db.prepare('SELECT COUNT(*) as count FROM banners').get() as { count: number };
+  if (bannerCount.count === 0) {
+    const bannerInsert = db.prepare(`
+      INSERT INTO banners (title, subtitle, image_url, link_url, active, sort_order)
+      VALUES (?, ?, ?, ?, ?, ?)
+    `);
+    bannerInsert.run('Summer Collection', 'New arrivals for the season', '/banner1.jpg', '/#shop', 1, 0);
+    bannerInsert.run('Limited Edition', 'Exclusive drops you cannot miss', '/banner2.jpg', '/#shop', 1, 1);
+    bannerInsert.run('Premium Quality', 'Crafted for everyday comfort', '/banner3.jpg', '/#shop', 1, 2);
+  }
+
+  return db;
+}

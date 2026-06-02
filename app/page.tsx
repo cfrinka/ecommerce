@@ -1,65 +1,62 @@
-import Image from "next/image";
+import Link from "next/link";
+import { getDb } from "./lib/db";
+import { getBanners } from "./actions/banners";
+import { getLocale } from "./lib/server-locale";
+import { getDictionary } from "./lib/i18n";
+import { Carousel } from "./components/Carousel";
 
-export default function Home() {
+export default async function Home() {
+  const db = getDb();
+  const products = db.prepare(
+    "SELECT id, name, description, price, image, category FROM products WHERE active = 1 ORDER BY id"
+  ).all() as { id: number; name: string; description: string; price: number; image: string; category: string }[];
+
+  const banners = await getBanners();
+  const locale = await getLocale();
+  const t = getDictionary(locale);
+
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
+    <div>
+      <Carousel banners={banners} shopNow={t.carousel.shopNow} />
+
+      <section id="shop" className="mx-auto max-w-6xl px-4 py-16">
+        <div className="mb-10 flex items-end justify-between">
+          <div>
+            <p className="text-xs font-semibold tracking-wider text-[#be1622] uppercase">{t.home.collection}</p>
+            <h2 className="mt-2 font-display text-3xl tracking-wide text-[#282828]">{t.home.allProducts}</h2>
+          </div>
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+
+        <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+          {products.map((product) => (
+            <Link
+              key={product.id}
+              href={`/product/${product.id}`}
+              className="group block overflow-hidden rounded-sm bg-[#faf9f7] transition duration-300 hover:-translate-y-1 hover:shadow-xl"
+            >
+              <div className="aspect-square bg-gradient-to-br from-[#ddd] to-[#f5f3f0] flex items-center justify-center overflow-hidden">
+                <img
+                  src={`/api/images/products/${product.id}`}
+                  alt={product.name}
+                  className="h-full w-full object-cover transition duration-500 group-hover:scale-105"
+                />
+              </div>
+              <div className="p-5">
+                <p className="text-xs font-semibold tracking-wider text-[#be1622] uppercase">{product.category}</p>
+                <h3 className="mt-1 text-lg font-semibold text-[#282828] group-hover:text-[#be1622] transition">
+                  {product.name}
+                </h3>
+                <p className="mt-1 line-clamp-2 text-sm leading-relaxed text-[#282828]/70">
+                  {product.description}
+                </p>
+                <p className="mt-3 text-lg font-medium tracking-wide text-[#282828]">
+                  ${(product.price / 100).toFixed(2)}
+                </p>
+              </div>
+            </Link>
+          ))}
         </div>
-      </main>
+      </section>
     </div>
   );
 }
