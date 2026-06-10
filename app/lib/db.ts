@@ -93,8 +93,14 @@ export function initDb() {
   // Seed products from JSON if none exist
   const count = db.prepare('SELECT COUNT(*) as count FROM products').get() as { count: number };
   if (count.count === 0) {
-    const jsonPath = 'C:\\Users\\Gokai\\Downloads\\products-2026-06-10.json';
-    if (fs.existsSync(jsonPath)) {
+    // Check multiple possible locations for seed file
+    const possiblePaths = [
+      path.join(process.cwd(), 'data', 'products-seed.json'),
+      path.join(process.cwd(), 'products-seed.json'),
+      'C:\\Users\\Gokai\\Downloads\\products-2026-06-10.json',
+    ];
+    const jsonPath = possiblePaths.find(p => fs.existsSync(p));
+    if (jsonPath) {
       const jsonContent = fs.readFileSync(jsonPath, 'utf-8');
       const products: any[] = JSON.parse(jsonContent);
 
