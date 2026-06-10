@@ -34,9 +34,10 @@ yarn-error.log*
 .env*
 
 # database
-/data
-*.db
-*.db-wal
+/data/*.db
+/data/*.db-wal
+/data/*.db-shm
+!/data/products-seed.json
 *.db-shm
 
 # vercel

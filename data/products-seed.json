@@ -1,0 +1,5926 @@
+[
+  {
+    "id": "tfXkcSbCeHSejq2mJ0uW",
+    "plusSized": false,
+    "sku": "LXO49EW1JF",
+    "costPrice": 10,
+    "salePrice": 29.99,
+    "createdAt": "2026-03-17T12:37:50.729Z",
+    "name": "Alcinha Botão Bojo",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 4
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 4,
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/tfXkcSbCeHSejq2mJ0uW.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091718561&Signature=vW4fS9c%2BMvtZDu0kRzmJigHm%2B8PzJ4PDJsVgfumGbgoJ%2FNgs0yB2QtrGpfwMAyOSZ0liMo4orHnq%2BzsjQmIv0AOB2p5itHVjyPuoXfynKaiEXFgMVf4mKBr901Is5FqEWlUcumP5s8F2VWUOfuVcbn%2FG1dHgh01ouMOQ4V5YsMy6xyOIMiBKPoYHHnxXKcXxAhwn1EqSbelm1jfgmd1JIrKK7Xbk3CGrnjAVBntqDh1MkRHoKF2GFhuh95yZceDwHG0p5CySTbtaMQA6J0XUEMpRHJkWkNrfQSV8MBpaSYZ%2FFa4jxKyLx%2Fnmf8c6QG6tIPR2YuKMwXGfWn8dNxQlqw%3D%3D",
+    "category": "Regatas",
+    "imageSource": "uploaded",
+    "updatedAt": "2026-06-09T14:12:01.999Z"
+  },
+  {
+    "id": "0F6I4RJIqXx290ziQdjM",
+    "plusSized": false,
+    "name": "Alcinha Renda",
+    "sku": "QDZLKCY9WM",
+    "costPrice": 20,
+    "createdAt": "2026-04-06T22:08:18.985Z",
+    "salePrice": 50,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 5
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 5,
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/0F6I4RJIqXx290ziQdjM.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091728352&Signature=WsMrXmzUOlQ%2FC%2FMgmxM5p7wj4wBE7ynUMbAKEyzLKUhzwOUBm6WlmJSKxlxkeJqCWalaiYRVBr5nB109ob8XOLgflFL35Pg5WRq27KYE2JzL5bP3XcyMv4rcezU8bmmNqXPKtuYhkdC5IvMFGS8PtQIP0O1zNhdbtZmfczRDL7Y2K3KBlsZS63yNh%2FFFX9Qvw%2FCxQXAcbxpsfh83AjONFGFrcOND4FNStHHicEw6dRQvg4n%2BQ5rXi1A%2BtCPe%2FofPcvcEAFTRXcVRLY2bHJKbEoS0GTGVB%2BCVuPMfxkAZJ2jTt0Xe%2BDc3nzQ6WcXJYarWToRoVzeEL1zqJreEaml01g%3D%3D",
+    "category": "Regatas",
+    "imageSource": "uploaded",
+    "updatedAt": "2026-06-09T14:12:01.999Z"
+  },
+  {
+    "id": "jkTJWbLiBRTKfrgGvNoZ",
+    "plusSized": false,
+    "name": "Alcinha com Bojo",
+    "sku": "WI4HXHIG5U",
+    "ownerId": "owner-1",
+    "createdAt": "2026-02-03T20:00:59.900Z",
+    "costPrice": 10,
+    "salePrice": 25,
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/jkTJWbLiBRTKfrgGvNoZ.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091718813&Signature=CREHToS575O5PC%2FyXA3tXohpBz3C3F7xobPpGBXC2Ytb5rnGGH6zhL9oTuz038Z7w9n1ZQnFQMffGN4mlG3SBkNmGKUPCxaTmA7ZLHVXYM%2F3HDNJYc3IlhlGmV8cOGZ9rM%2BH8TrV9vTpOQTXQiUNA3jHWs43Jotlyi9JVCOHH%2FNvPN4pSWP1IzaY81kdXNzy7IJ3c5VMr83MmoSJIKfRrKGbCxD7HOtPmfr%2B374v%2B1YIGRBRFOewqxPKdshkCMJn%2F4GuK2CgZ%2FBQnqu5HKjPdF2kCesQR3P%2FpHA6ZtKOuuaOABMSccM33IXgDDAmQHkj%2BH4udZ3WELlAYKrBZBIQFg%3D%3D",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 7
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 7,
+    "category": "Regatas",
+    "imageSource": "uploaded",
+    "updatedAt": "2026-06-09T14:12:01.999Z"
+  },
+  {
+    "id": "HvO5vBzPkaBE0xvVQvzP",
+    "plusSized": false,
+    "name": "Alcinha com Bojo Brasil",
+    "sku": "2DO66UCXC6",
+    "costPrice": 10,
+    "salePrice": 29.99,
+    "createdAt": "2026-03-17T12:50:23.333Z",
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/HvO5vBzPkaBE0xvVQvzP.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091718858&Signature=ruGBWeMp%2FOy3vRb2m5aQL8i3jsjGPsxZZ8fqNRj7K3hfH90ujHypUa9wmTMVXta7BOYgKHVOI%2BSKA0eqP2wOeqbkDqMwqdzd%2B8xIgJKhGUUrjMIT%2BXzPrvkC1uCIN69xbIRnXqCLtbwykq92QSZUdQ%2BqWtJ3Nbgi2XdWgHtVaLXd9Vpa7W9XvFurpbtppZtTU2syggjZfOzxQ%2FO81zCxVGI%2BMFP06DVN1t7WOwfuTKKEJtgq9DInD6ZTjDKY%2BbBiPRGyhF%2B0oEZgW8xVu0I7SpgLQWJKLh4d%2FX6HNhrX66H4o%2BS66m9sjzHyx6u98wlcPt4shQ3AvJxf5Jk38S4pJw%3D%3D",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 5
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 5,
+    "category": "Regatas",
+    "imageSource": "uploaded",
+    "updatedAt": "2026-06-09T14:12:01.999Z"
+  },
+  {
+    "id": "ZgaYoFKY1PzulGzpoZE6",
+    "plusSized": false,
+    "name": "Bermuda",
+    "sku": "D64A70W872",
+    "costPrice": 15,
+    "salePrice": 40,
+    "createdAt": "2026-02-24T14:30:32.860Z",
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/ZgaYoFKY1PzulGzpoZE6.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091718983&Signature=IeaFeUxvnXrazrXeuPV4LlaDpXTex7k%2FhG1E%2B4%2BEquQTocFurfx9LFotBLmXySnxuxpr0pUXYIUsAz%2F07N7G9qEK6WlMDglgR9IvTQmYC0y2wsKOhdnDEeYLuXHvjlgGc7ttx61rvg3Ym%2Fucf7Bo0y3DEgS1D0AJTMUIZQKpgwSiq04lP78wwkQ7%2BiL0mmGferboUraM0dq4WvRtNHMrbKiLMtzCgg0ftCBcD9UjaSWFauqlBU1dbnyXhyFnxNRu%2FnCSGzBJWncvvjTQwxOeSwum1nwsF3TYRR8%2FqaKPAI4L2NUopeZIKZXQ%2BkrZSta6oceSs%2B3GPSvOQE1UaDfu%2FQ%3D%3D",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "size": "G",
+        "stock": 2
+      },
+      {
+        "size": "GG",
+        "stock": 3
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 8,
+    "category": "Shorts",
+    "imageSource": "uploaded",
+    "updatedAt": "2026-06-09T14:12:01.999Z"
+  },
+  {
+    "id": "wCnBvVmgzA7xNvpDzX2G",
+    "plusSized": true,
+    "name": "Bermuda Plus",
+    "sku": "79JAS97DER",
+    "ownerId": "owner-1",
+    "costPrice": 15,
+    "salePrice": 60,
+    "stock": 5,
+    "createdAt": "2026-02-03T21:06:09.216Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      },
+      {
+        "size": "G1",
+        "stock": 2
+      },
+      {
+        "size": "G2",
+        "stock": 0
+      },
+      {
+        "size": "G3",
+        "stock": 3
+      }
+    ],
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/wCnBvVmgzA7xNvpDzX2G.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091719154&Signature=slKVc03YGS8%2BgpveiByozkfmRWSlLTJdTFpVzEL7I8M65TeLfG9m0LLcm242h2JX809nuuEVTrBlojlz9yHlDvPF8M8jF1WmzGFA7vvlZkjsf6b0CU0zuBaMcoS3uocREZS6ibbilHVvA8eRU4Y9Nhgqtj3MU2VirY1wrKLAC3FL2FMj1UqauX238P4gwe7fXzFDE4KK6qh5h5%2Bim1OBOhOZTGYh7rEpq8XDF4XgLLXTYqcFPvmC7wrBHy0X0A9osmxt7RQdEnKK8T3RshvQWxb4XPDZ%2Bolykj4e63Xup4hxQIqE30h6RYtglkNs6SLJvjfhdkHrVythaNm79vamtQ%3D%3D",
+    "category": "Shorts",
+    "imageSource": "uploaded",
+    "updatedAt": "2026-06-09T14:12:01.999Z"
+  },
+  {
+    "id": "BWj4NokGKmZhrajzagWJ",
+    "plusSized": false,
+    "name": "Blazer",
+    "sku": "MH8U30YWMQ",
+    "costPrice": 30,
+    "salePrice": 90,
+    "createdAt": "2026-04-27T22:54:26.313Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 2
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 2,
+    "category": "Blusas",
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/BWj4NokGKmZhrajzagWJ.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2096385051&Signature=Qab2si2vg8iwihICmI4tqgiDtsONimTvE7YhlLIVDgXq4BqxjRCAEZpzp3MNwfcRPNdgKZfML%2B0pZsl9hce2wCxTQPUlfl%2B6UUf0K2YeXaH2qQ5rGxCki0akNQtGDgDOOTfmx0L3mUa6rc9fKaFSibntiALOJxvWZsm4Rl%2FJ3zxQpZJzk%2BkTqUTS3cEWpkMoBn1ZsEmrSm7RjtYLYJ6uCrLtypt%2B2IBadztjKU0l4fFQPIh3Hhc41%2F1ZUxFEtZYmMT9XxmW2aDFnVJEveQRoc73apUYt%2FJXoy19diQTd3GFJsLa%2BwjY5zCgoCNGxckHHLphQlFyvoQzUTUZlpA9saQ%3D%3D",
+    "imageSource": "uploaded",
+    "updatedAt": "2026-06-09T17:10:52.230Z"
+  },
+  {
+    "id": "cp2k97VZabP3fVG7Awwq",
+    "plusSized": false,
+    "name": "Blusa Manga Renda",
+    "sku": "9OG2PMU8NU",
+    "costPrice": 15,
+    "salePrice": 39.99,
+    "createdAt": "2026-03-17T12:06:26.678Z",
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/cp2k97VZabP3fVG7Awwq.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091719279&Signature=oUF1DcWNp1E1imIQMSbIkU57yBQ1WPv8L7UuqXIGfI4dgYxGmz1kp2TkyxeMMQXhIgSvz94gqyvIac513H3pAF4913ib%2BI7ga6t6CkUW0dB3NRc%2BoiXT3U8BEPFSmhYn0mPxjKCi3Q1NOqzGFRIt8H5kW18NVD%2Bw7asW3XeMY4weHo%2BPMw7eTaHPwmKwXRuhtIokc%2Bup01jm0YqUslw4OKr%2FGBrDHHwUsxAYS7HIvcqztgC1WK7Y6n9oFSDPh2YfQSjB7PXmF6seXtHiJDteIdSUtYOGxYl017tEw5kYLuYjb04oIbiKTtF6q%2FhNyZpwhw4BQkYxpOVPmxLmFmX6vQ%3D%3D",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 2
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 2,
+    "category": "Camisetas",
+    "imageSource": "uploaded",
+    "updatedAt": "2026-06-09T14:12:01.999Z"
+  },
+  {
+    "id": "DFEaH3y8J3X6AHe9l4xN",
+    "plusSized": true,
+    "name": "Blusa Nula Manga",
+    "sku": "OMO9EI7WDK",
+    "costPrice": 25,
+    "salePrice": 69.99,
+    "createdAt": "2026-03-17T11:16:27.195Z",
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/DFEaH3y8J3X6AHe9l4xN.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091719352&Signature=cOVC2LcEBYEj2toFMpfZIwAlsRc3a%2FTYGJnM7eNosA0ZF3HgdlsPHJJwypOtSGTGscizWbrVm%2BIcp11I%2Fk%2FrNq7FJD8g2SfzTVAb%2FnvVrzl88DHYtnXBJJkbeIJ%2BPVGAkRkrBnK1t881J4BEinlhMgLPPn4QHx11O58TTWDGpLDcU5wokiuuW5%2BVCoUrCqALlohlPVFbAldCOUd3eQQlP1bbaUNCS%2FM3eVSvlDdOGVhMUjO3kHEWNOBfetzCFJvfstp0W0JTeDYk3Xu5Z2TqTmMhj0pMABzKlqVE1oJoCCSrNxZfnjBBo%2FbCNDfIGLOOgXpqyp%2FbpmR0%2FlHFTXK7LA%3D%3D",
+    "sizes": [
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      },
+      {
+        "size": "G1",
+        "stock": 0
+      },
+      {
+        "size": "G2",
+        "stock": 1
+      },
+      {
+        "size": "G3",
+        "stock": 0
+      }
+    ],
+    "stock": 1,
+    "category": "Camisetas",
+    "imageSource": "uploaded",
+    "updatedAt": "2026-06-09T14:12:01.999Z"
+  },
+  {
+    "id": "FlksirhsAKngSLlUPE3t",
+    "plusSized": false,
+    "ownerId": "owner-1",
+    "costPrice": 15,
+    "salePrice": 35,
+    "createdAt": "2026-01-17T15:30:03.817Z",
+    "sku": "L2QZK9X7M8",
+    "name": "Blusinha (Legado)",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 46
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "stock": 1,
+        "size": "G"
+      },
+      {
+        "stock": 0,
+        "size": "GG"
+      },
+      {
+        "stock": 0,
+        "size": "XG"
+      }
+    ],
+    "stock": 47,
+    "category": "Camisetas",
+    "imageSource": "none",
+    "updatedAt": "2026-06-09T14:12:01.999Z"
+  },
+  {
+    "id": "3k1usa3URCYkl2YrVFm6",
+    "plusSized": false,
+    "name": "Blusinha Blogueira",
+    "sku": "CV3J4C6BJM",
+    "costPrice": 10,
+    "salePrice": 29.99,
+    "createdAt": "2026-03-17T12:30:37.334Z",
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/3k1usa3URCYkl2YrVFm6.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091719617&Signature=ESJKqoTW6UIRtLjsE%2F8CcT5LK9DDybTVDUKYDpZDOIAJWgxtxatVCO89q%2B4jmiqMIxZuPkuLmYAZ1lOmOB9wyE96OGppSmtAacRi5oUm2dorN0ZLGSjPYguYNztpj2Ay47vV97VrW4Rh0FPEKYtiiQIeE%2FMDgu065ah0LRg5US%2FV3QtK12nZyqFuqIq8Wr8GIUfk25g%2BHUtNaCxVM9SbPYuxc01OTwMkuCQ8yWtyex7AzC7%2FTPy7VRqUTuLNmHHK8OS%2BMgN0DPT%2BjPSJrJ5pcIfioxdj6u5pYiF1T5yP%2Fj%2FX0vlhDC%2BjnJQ34Sxh2bs%2B0Jhh5%2Fn94jlyonOzTWjBSw%3D%3D",
+    "sizes": [
+      {
+        "stock": 2,
+        "size": "TU"
+      },
+      {
+        "stock": 0,
+        "size": "P"
+      },
+      {
+        "stock": 0,
+        "size": "M"
+      },
+      {
+        "stock": 0,
+        "size": "G"
+      },
+      {
+        "stock": 0,
+        "size": "GG"
+      },
+      {
+        "stock": 0,
+        "size": "XG"
+      }
+    ],
+    "stock": 2,
+    "category": "Camisetas",
+    "imageSource": "uploaded",
+    "updatedAt": "2026-06-09T14:12:01.999Z"
+  },
+  {
+    "id": "BhR3OyRRKftgMkfT2IOU",
+    "plusSized": false,
+    "name": "Blusinha Cordão",
+    "sku": "APWF1YOKWD",
+    "ownerId": "owner-1",
+    "costPrice": 15,
+    "salePrice": 50,
+    "createdAt": "2026-02-03T21:08:03.880Z",
+    "stock": 1,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 1
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/BhR3OyRRKftgMkfT2IOU.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091728233&Signature=e7jgRZWJC%2Fnb5HClkQY3iBsuDKpaJmGbmMd62YIMWS5mq7xxRR1DjyWPnSEvYc8BZlooAyJ6rGXEURv3EckXdeG1wKZdX6O6b%2FpB6NwRIasl1nowT3ogpgCRQX%2BMsdrDUc5YEBO3UGJH9tPPhSTQE3tqcF8ti5ts6C5h0ruz4w2MUMSyjryyLX7g2tn9bR3epCtW3hsCHDkbrlBR7Zxs5QVzWBziH0r5mkRR0VaDNeeQE28ZYe7jbm5jy1MpCMliGQA3wln9YehCbUm0VZEN0J5OtZ3P6o2s9IbwX%2B8RY2M3UWURakeICAr62ufx3pyj4L1Cx3M0V%2BGPJM7ERjxBAg%3D%3D",
+    "category": "Camisetas",
+    "imageSource": "uploaded",
+    "updatedAt": "2026-06-09T14:12:01.999Z"
+  },
+  {
+    "id": "P0E7FidkOtgZ8GBzEgUK",
+    "plusSized": true,
+    "name": "Blusinha Duna Plus",
+    "sku": "Z3XDK1C790",
+    "ownerId": "owner-1",
+    "costPrice": 15,
+    "salePrice": 45,
+    "createdAt": "2026-02-03T21:28:13.943Z",
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/P0E7FidkOtgZ8GBzEgUK.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091719817&Signature=Bnbox9g0pCMqU5HLctw7qHJnRkV6Y%2FiLDI%2FK5YExeNjU6neiEZIOdCWQalulGVJHm64pibSU%2FltFXl4iLevYXPWIY3t3KTXyS%2FJ1CfjSKrXIWeopmS4nFGVBBNlDzACCLFKaYKT%2FDfnbD4E%2BOIuUksU2KTim9rJkuUJJTjs10%2Breth7abFAYyqlChVCLnuhgXc38FrDIRjves%2BhufxfuymtojfoQww9VlrhOxMxCt54KSvyzsqv%2BdeX0Z9b8ekk%2Fri5gG9ZpgCoVP4juBbf8iwJ7C%2FNwgXGFWaIsndJ6PUwE52jo2DnOPpQC%2FSE9hgihCxNg9bZvcwJP2OdHQbXmCw%3D%3D",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 1
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      },
+      {
+        "size": "G1",
+        "stock": 0
+      },
+      {
+        "size": "G2",
+        "stock": 3
+      },
+      {
+        "size": "G3",
+        "stock": 2
+      }
+    ],
+    "stock": 6,
+    "imageSource": "uploaded",
+    "category": "Regatas",
+    "updatedAt": "2026-06-09T16:26:11.722Z"
+  },
+  {
+    "id": "Sg8CDMJbAD3A8vYkDg9b",
+    "plusSized": false,
+    "name": "Blusinha Gola Cor",
+    "sku": "PUTL4AXERT",
+    "ownerId": "owner-1",
+    "costPrice": 15,
+    "salePrice": 35,
+    "createdAt": "2026-02-03T20:51:44.795Z",
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/Sg8CDMJbAD3A8vYkDg9b.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091728165&Signature=NUykONrZzmL3XC%2Bnh0AyzKWQD6KmsWQq6l9fXYq5wog0VTkwVh1hXXmrGMVbbwF95W0SqmuNR5cEEJcA8TjsCA5zKbTwhGAnQOhXl0K%2BoXxJUbjkRBRjsVSY6VqEQUTVZZuqG6xL863h3aVeS8GTCmtQoXXHj06UOlXGgMCodDTyU5A8JLQjijGPS%2B2r72NfMJTcJzIkKk7mYVVrArnOXNip6GwNicn8U%2BAlBOXjBLbfiFiw3ugVK1VKghmK2%2FgFxlVES%2FxjOE0CidgrSn6wLZ%2BwMr3qJZyrDTAhxRB9hRxjuWr8ukMyJ%2BLbVbQjXLwxo7eU%2FVz2smS47ChEp3pZMQ%3D%3D",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 2
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 2,
+    "imageSource": "uploaded",
+    "category": "Regatas",
+    "updatedAt": "2026-06-09T16:26:11.722Z"
+  },
+  {
+    "id": "bAwMNSonQoUdIIEqlXaA",
+    "plusSized": false,
+    "name": "Blusinha Listrada Elástico",
+    "sku": "73W7WTUHZF",
+    "ownerId": "owner-1",
+    "costPrice": 13,
+    "salePrice": 40,
+    "createdAt": "2026-02-03T21:33:08.045Z",
+    "image": "",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 0,
+    "imageSource": "none",
+    "category": "Regatas",
+    "updatedAt": "2026-06-09T16:26:11.722Z"
+  },
+  {
+    "id": "oupQOGNYGkQqyeW7BIC9",
+    "plusSized": false,
+    "sku": "N2BUQ5BZBF",
+    "ownerId": "owner-1",
+    "costPrice": 15,
+    "salePrice": 30,
+    "createdAt": "2026-02-03T21:19:52.617Z",
+    "name": "Blusinha Ombro Listrada",
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/oupQOGNYGkQqyeW7BIC9.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091720089&Signature=gXGzbiNLnvi49RFpl7CnVYjYzAnBjWAt4pwvhD%2Fm%2FxHq6xdMBERzFo7gykd0g%2BANnhgFLN7Di2y1%2BtNC%2BiFw%2F72fYlj0GYsX7DHZ%2FDFdsBwpi1PgZRHhBWqlNEsGeD%2B62WVeEdDMU1TxFSr9CzdKmmWBxkFcTvc%2BZTqzbwPZGiDJWpXvdQlCzg8lMN47KRqmpsTB%2FNM1Hn8kQKyMLj7H2eLrzd7ox%2BrV6x7vFswJu%2BGWfZDBGUumQx5M0igAJiiSXDRDVhBclw4W3KZEqvtrQo7KrMeD4K110YCMzoTV6V%2FaTIAv%2FiXdiW7Z2ar30ZTY120dcq5A%2FEcgI63oj4fqyA%3D%3D",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 2
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 2,
+    "imageSource": "uploaded",
+    "category": "Regatas",
+    "updatedAt": "2026-06-09T16:26:11.722Z"
+  },
+  {
+    "id": "zStNSr2sTpnfF94yth3N",
+    "plusSized": false,
+    "name": "Body",
+    "sku": "R6FVZT5QPF",
+    "costPrice": 15,
+    "createdAt": "2026-03-17T12:41:48.592Z",
+    "salePrice": 34.99,
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/zStNSr2sTpnfF94yth3N.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091720226&Signature=HOTv3WFsAKhhQeiPEWZOgLvrBRzfBQby0fJ04ynfiJrPEjehedsFZNxPXDdPecMivIrrvGozlaRwFE3Va9wi7q5dBdp5jXSaXmCBKFkLz5RQqGM1I0aA6BNplGtL%2BAn4ZE5YPS7ZgMOdYOJvSwoOK02dyva4KyFGR6%2FO%2F0MoCvWvCmf3wlWJVN1qkDO7QsKAuecOM4pSv3JgiWKTYuo%2BCeexdD3BA%2Fis9DChSWC9va06CTESjjco5f2B2RsUFzsKf4d%2FNyhrakwohNrLLHhKTMCRccV8YkQWFxOzTWGco2dyyR1ioK67ilz1TMvxa7D09uPV3n2NYDoOLnbOqZI64A%3D%3D",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 11
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 11,
+    "imageSource": "uploaded",
+    "category": "Regatas",
+    "updatedAt": "2026-06-09T16:26:11.722Z"
+  },
+  {
+    "id": "49M0HPQcCINvJKXZhluv",
+    "plusSized": false,
+    "ownerId": "owner-1",
+    "costPrice": 15,
+    "salePrice": 35,
+    "createdAt": "2026-01-17T15:29:32.811Z",
+    "sku": "T4JZ9WQL8P",
+    "name": "Body (Legado)",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 7
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 7,
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/49M0HPQcCINvJKXZhluv.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091720335&Signature=st4lLTwuLUfnAzQPhLMN%2FJigHHuOkzpxSicahLRoxNj%2FhKbSZt4GH2IJIttyJuOZMlZlBKs3pusCLA2KPvTMO8meKM1kGaQe2gSwIb4pp4xIo5rw9xkEu%2BmCODU%2Fx5ofjwwm8Ak4bf3TbPVfa8sd05t8e2fPAAX7B42yd%2BMhPNlFb1zqA%2FwUHDPj3mP4rnYW1kn6zK%2B8zgDKoWjRei2kFfVfZv7q%2BCMU9PrFpnBpRC12Zj%2B4RooPXwBRaFjgR6d%2B4pjWET%2F1DlMWiZg%2BLWPTflIhuuGgl%2FxraQKf2DIvPvGY1tDCdojwDbFB7EKsB1GdWAxPfq5lCKkn6fKSLnuHsA%3D%3D",
+    "imageSource": "uploaded",
+    "category": "Regatas",
+    "updatedAt": "2026-06-09T16:26:11.722Z"
+  },
+  {
+    "id": "Bus2d4eK337ua2wij4i9",
+    "plusSized": false,
+    "sku": "UM0HB99FHO",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 4
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "stock": 0,
+        "size": "G"
+      },
+      {
+        "stock": 0,
+        "size": "GG"
+      },
+      {
+        "stock": 0,
+        "size": "XG"
+      }
+    ],
+    "stock": 4,
+    "salePrice": 50,
+    "costPrice": 15,
+    "name": "Body Longo Gola Alta",
+    "createdAt": "2026-05-25T21:26:34.351Z",
+    "image": "https://picsum.photos/seed/1779744393718/400/400",
+    "imageSource": "random",
+    "category": "Camisetas",
+    "updatedAt": "2026-06-09T16:26:11.722Z"
+  },
+  {
+    "id": "UjPxnr2n0F3jBKzn8FOi",
+    "plusSized": false,
+    "image": "https://picsum.photos/seed/1779744372836/400/400",
+    "name": "Body Longo Gola Quadrada",
+    "stock": 3,
+    "costPrice": 15,
+    "sku": "R4PHK776JJ",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 3
+      },
+      {
+        "stock": 0,
+        "size": "P"
+      },
+      {
+        "stock": 0,
+        "size": "M"
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "stock": 0,
+        "size": "GG"
+      },
+      {
+        "stock": 0,
+        "size": "XG"
+      }
+    ],
+    "salePrice": 50,
+    "createdAt": "2026-05-25T21:26:14.015Z",
+    "imageSource": "random",
+    "category": "Regatas",
+    "updatedAt": "2026-06-09T16:26:11.722Z"
+  },
+  {
+    "id": "vP2JwAqdyBssGruLkipf",
+    "plusSized": false,
+    "name": "Body Renda",
+    "sku": "6XB24DBCCW",
+    "costPrice": 25,
+    "salePrice": 70,
+    "createdAt": "2026-04-27T21:45:33.613Z",
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/vP2JwAqdyBssGruLkipf.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2093092270&Signature=Dn1oUAo2RlcY2FudFHZULf9cx6YxUkZWiu62kCHzOYaFZHyF3JF3avwo6FUdgsWU5d2Ea7U0KqE1SJqOC3TyvuIe71FpDNq8GlmTyIK9lAfJ8cUd%2F85ItQPZFm4ITxW9AMJUqr3bqi6EgllyKJhZWn7HsMfAhSnS2FNv2bptmw%2BM2DRiZOkxS3gJZ46AA5bk0G%2BRXRMtbWwshiiLrSTzcqPa2%2FB1WEWOAoHcfXSbxMXtY4yEnxfnrYpQn9B6gWzrbphZu61Pe1AoBeeeamPOepjOt3NZGIhmFCmcVO3rvdPNbKYI8mwDn5w0In6k2Q3gcYc611V3KzQ85sCAGhN%2BHw%3D%3D",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 2
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 2,
+    "imageSource": "uploaded",
+    "category": "Camisetas",
+    "updatedAt": "2026-06-09T16:26:11.722Z"
+  },
+  {
+    "id": "c8k14dNaLurLkzoCMvvp",
+    "plusSized": false,
+    "image": "https://picsum.photos/seed/1779745124934/400/400",
+    "name": "Bolero",
+    "sku": "8ZA3M31PDY",
+    "createdAt": "2026-05-25T21:38:46.856Z",
+    "salePrice": 99,
+    "costPrice": 45,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 1
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "stock": 0,
+        "size": "M"
+      },
+      {
+        "stock": 0,
+        "size": "G"
+      },
+      {
+        "stock": 0,
+        "size": "GG"
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 1,
+    "imageSource": "random",
+    "category": "Blusas",
+    "updatedAt": "2026-06-09T16:26:11.722Z"
+  },
+  {
+    "id": "Cpn0qwTxHi3nYnL8K21x",
+    "plusSized": false,
+    "ownerId": "owner-1",
+    "createdAt": "2026-01-17T15:49:43.032Z",
+    "sku": "9KZLX7Q2M4",
+    "image": "https://picsum.photos/seed/1777324130658/400/400",
+    "salePrice": 60,
+    "costPrice": 33.33,
+    "name": "Bolsas",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 1
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 1,
+    "imageSource": "random",
+    "updatedAt": "2026-06-09T14:12:01.999Z"
+  },
+  {
+    "id": "HrZGB8Yi6S3NJz9lsRVL",
+    "plusSized": false,
+    "name": "Básica Frufru",
+    "sku": "IQX1Y4WK33",
+    "costPrice": 10,
+    "salePrice": 28.99,
+    "createdAt": "2026-03-17T12:36:15.376Z",
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/HrZGB8Yi6S3NJz9lsRVL.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091727481&Signature=fWSVXTAByA4aXC2ZP2CQPwUn%2Fv%2BWiVT4RiOSE5kQ0Q2EexhDSooyQC0DkmrrVS8qo6%2BKSqgn5q6CPr4t%2Fush%2FoxB3ooD%2FsI6uS9hMKwcJbKoFlH%2FlXxSqTotkfcd40Yfw41ngfZLgIb%2Fb6Vrvnbu8pugwHKnqEHZPxbtYjAmkAeqFKqrULvPnm0vrVU%2B5pn2yxa3%2BmZ1KUmOHOoOvjq0XyCKiN5EUTu%2Bt6RbykmoudjLj1NFf%2FxJYRxU1RTv25zttp4mdO7oSA5ZedDbGSqbE1ytntlgxsOxFrVUOE%2FfptFirmjXTS2cB2tRMF%2F68PL7ybpku97YEVDyTUlUHbrVHw%3D%3D",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 1
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 1,
+    "imageSource": "uploaded",
+    "category": "Regatas",
+    "updatedAt": "2026-06-09T16:26:11.722Z"
+  },
+  {
+    "id": "uRnGVhnLQzTOX9tRprNM",
+    "plusSized": false,
+    "name": "Básica Manga Japonesa",
+    "sku": "BANI5ZFBKA",
+    "costPrice": 10,
+    "salePrice": 25,
+    "createdAt": "2026-02-24T14:29:04.728Z",
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/uRnGVhnLQzTOX9tRprNM.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091720442&Signature=BxvrBdUpZWRqoTDevbSNmlrIXVj0r9%2FxR6grETwn7a%2B%2FunPZZBcORZOpM1%2Fc0AibnJaqim%2FKBo0xIS5SsG08jE0uVWMRQHb91%2Fd5Ko9k9SYR9gBxwPgFzIM2sVFJT4oEpBmNXSkMGQGX6kOQ%2FsxdOoTjnrY9sW8l0Sjcpi%2BzrnjoCxJuj5tzUqo9dk6ZjItzY2p14bFOtXefWM3CGQNhrydfmloBwpAeLmY6tCbZP6BYy6e8Em%2Bl%2FpDLufWFxByJljP2ZsR5ASv%2BqZAwm6T06hu%2BYFzjtu7A1qDvbfq3ED5Z3DkQy0SnaEPA3uHpNqGDever%2BGc25bLp%2FLevKjHA%2BQ%3D%3D",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 6
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 6,
+    "imageSource": "uploaded",
+    "category": "Regatas",
+    "updatedAt": "2026-06-09T16:26:11.722Z"
+  },
+  {
+    "id": "8i6mTvBX6V8OW3pvsyj6",
+    "plusSized": false,
+    "ownerId": "owner-1",
+    "costPrice": 25,
+    "salePrice": 55,
+    "createdAt": "2026-01-17T15:49:01.470Z",
+    "sku": "M8X2KZ7LQ9",
+    "name": "Calça (Legado)",
+    "sizes": [
+      {
+        "stock": 0,
+        "size": "TU"
+      },
+      {
+        "stock": 2,
+        "size": "P"
+      },
+      {
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "stock": 15,
+        "size": "G"
+      },
+      {
+        "stock": 12,
+        "size": "GG"
+      },
+      {
+        "stock": 0,
+        "size": "XG"
+      }
+    ],
+    "stock": 30,
+    "imageSource": "none",
+    "category": "Calças",
+    "updatedAt": "2026-06-09T16:26:11.722Z"
+  },
+  {
+    "id": "7kXSQXNIIw2rTkMuwqjs",
+    "plusSized": false,
+    "name": "Calça Alfaiataria",
+    "sku": "D9QNP1DS76",
+    "ownerId": "owner-1",
+    "costPrice": 33.33,
+    "createdAt": "2026-02-03T19:48:29.923Z",
+    "salePrice": 89.99,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 1
+      },
+      {
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "size": "G",
+        "stock": 4
+      },
+      {
+        "size": "GG",
+        "stock": 4
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 13,
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/7kXSQXNIIw2rTkMuwqjs.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091721172&Signature=sK6jUE4pOnqumhZv23ULsVNMShJIqYf9PFAiYpjbaNy1SiTM%2B7kmSI7%2BLJhwbr7v8Ctk9%2FZ9KQjg7aNBaV%2FbR3lrebehJohjRE3vfJ6jgRLXzrynUBirGNjAKEr97q5slwp%2F53TjARUruXw%2F7F5d7xTQtczoYXofjJDC%2B70CsrnopHnpJzwUz8b888r9FfzSXhcNWQ25ooIqqBYj%2F%2BZD%2BFB0eabTsrzZ9EDrsIJ4Rk1bGzulnqPeoQ%2BNMO1qVUdedwfGAJl77k2HDP4qA%2FU4fT8G%2FSEG1e2voKyCoqdDaftW4726%2Fd672WzDEhL7X6NMefGuUjdNtLPSGxigalfqmw%3D%3D",
+    "imageSource": "uploaded",
+    "category": "Calças",
+    "updatedAt": "2026-06-09T16:26:11.722Z"
+  },
+  {
+    "id": "hoEdgRIanqliLnh608IR",
+    "plusSized": true,
+    "sku": "N964FACF4W",
+    "stock": 6,
+    "name": "Calça Alfaiataria Plus",
+    "image": "https://picsum.photos/seed/1779740740279/400/400",
+    "sizes": [
+      {
+        "stock": 0,
+        "size": "GG"
+      },
+      {
+        "stock": 0,
+        "size": "XG"
+      },
+      {
+        "stock": 2,
+        "size": "G1"
+      },
+      {
+        "stock": 2,
+        "size": "G2"
+      },
+      {
+        "stock": 2,
+        "size": "G3"
+      }
+    ],
+    "salePrice": 99,
+    "costPrice": 40,
+    "createdAt": "2026-05-25T20:25:47.745Z",
+    "imageSource": "random",
+    "category": "Calças",
+    "updatedAt": "2026-06-09T16:26:11.722Z"
+  },
+  {
+    "id": "ssQPjDXkUVx6Isl8VsaJ",
+    "plusSized": false,
+    "name": "Calça Courinho",
+    "sku": "HCSD5QMEWG",
+    "costPrice": 40,
+    "salePrice": 110,
+    "stock": 6,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "size": "G",
+        "stock": 3
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "createdAt": "2026-04-27T22:22:28.965Z",
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/ssQPjDXkUVx6Isl8VsaJ.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2093092377&Signature=FjS%2BX2f%2FQQ7XNKL%2BNJCsJUDm%2F6%2BqsJyKY%2FjaJ5A8y2%2BEGdoK23i8JrhnQdsynxdisZvBXTww2XpBvj0iOww7DSX%2FhhO%2BckqN5fJJCuaE3tY%2FyGnnjtISTIiyxSgH%2FVKhUemNlIao%2B0BgrRJBCcTn3PSHuv0EVDUv19Dl0ILVgSvg0yCtFFxAcFbzT1VkVm8WLP1%2ByZjD47Q3fC5o%2Bby2eSp3oraVGjUnzM%2F460e41aHnevCeZkuwCALVOJz3CQPxZvc7VX6tB9HnaVvVZsaWa3kiIB2lX2nlaj%2FouvbTANOF9FSz19uXWWNLg%2FMZIwMVp8zdWOZlX3PO7UJiBvV1nQ%3D%3D",
+    "imageSource": "uploaded",
+    "category": "Calças",
+    "updatedAt": "2026-06-09T16:26:11.722Z"
+  },
+  {
+    "id": "j2XpOY584y41GOhCwNue",
+    "plusSized": false,
+    "name": "Calça Duna",
+    "sku": "5CMIVW7LQ5",
+    "salePrice": 50,
+    "createdAt": "2026-02-13T19:28:10.917Z",
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/j2XpOY584y41GOhCwNue.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091720575&Signature=cPkLJM81WKryPVnoqEG6g5SA69Y%2BzSzVoAQV62WrZKzoiXIWht13BUIOIXPBQp%2BsSkQpAcUjxWMLzfL10nd34WgqtdjtN19Uxpvjpgfm86d2eWLqnB811CeJkcqOFNBS7dkwDg6twUTosGr2G0ECk7lBG5%2BhJ8AnmsZaIyBTDtGnP5CgFuDgKyUjMyJ1ysRZtgbhQLjou6khHtrIYamkaU7Fe4TUsW1KDhMuBom%2Fd%2BXuhDJ8FLzIIEknJbVypl8eu76PXFk8FEwfoClK9uOlBdlXsXI%2F%2FW%2FdgPhmunKrL15RodamlqcU3SbY%2BOnXiWu40IumaBgXmQw9TfA9j08eFA%3D%3D",
+    "costPrice": 25,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "size": "G",
+        "stock": 6
+      },
+      {
+        "size": "GG",
+        "stock": 2
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 10,
+    "imageSource": "uploaded",
+    "category": "Calças",
+    "updatedAt": "2026-06-09T16:26:11.722Z"
+  },
+  {
+    "id": "U74P4ged8yqpT7tAgscc",
+    "plusSized": true,
+    "name": "Calça Duna Fivela",
+    "sku": "7Z8D27049D",
+    "costPrice": 30,
+    "salePrice": 85,
+    "createdAt": "2026-02-24T13:30:30.906Z",
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/U74P4ged8yqpT7tAgscc.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091720705&Signature=uJbhflzmX981W9ujYv6AS6QQ59iILLkm01YkEKD92Vwu9lP4FBjpa55rzICaP%2BJ0Gil5K8Agof7Q7xVypc4mG4DRl%2FPO6QwF8XaT3aDh9BNhAAXP3rlt6EMmZSEXR1%2FoeEN0TA7ijfJ39GulrUPK8x0RZnsicFNRtB3sOIjXsN%2B6YXP7NdvzwZeg8ivlKqyA51K3lGQT96QULSZ3Ay46pP47xBkKUAtM4aThByJweCwQL4iOZhK5coiIJl7R3f6t829M8kHwhdvey6pidBR26eoZZBLQmOZW291zg3CpCv0DgUUezDuBb6HCLFOST83efzTh0taSIvSj5ttMrGyi9Q%3D%3D",
+    "sizes": [
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      },
+      {
+        "size": "G1",
+        "stock": 0
+      },
+      {
+        "size": "G2",
+        "stock": 0
+      },
+      {
+        "size": "G3",
+        "stock": 0
+      }
+    ],
+    "stock": 0,
+    "imageSource": "uploaded",
+    "category": "Calças",
+    "updatedAt": "2026-06-09T16:26:11.722Z"
+  },
+  {
+    "id": "BK1t7VYkXu87f9uyVDR2",
+    "plusSized": false,
+    "name": "Calça Duna Listras",
+    "sku": "AZIRFV41E9",
+    "costPrice": 25,
+    "salePrice": 60,
+    "createdAt": "2026-02-13T19:18:32.869Z",
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/BK1t7VYkXu87f9uyVDR2.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091720963&Signature=JMuuIpPaD%2FzBNxsj2KiQvrThVjK4A0LwlMWRIU2t3LloVQ%2FIEIljUGWM92n%2BNEBGf143D5WOnZ2zX42pqEEzi1bf6aVVf4qYEFkSH9Ujk6r2B9Oz%2Fy9xSqsQW1yTB7DlXuzldUemc%2FaSI3eAmfy8yu5ctYTdfBoMiVaoG%2F5jNG70QgGQIHIiMFpiTYGVroOajh84widCEIDj6U6YkN2ohsirhbDYAfGNi3HP%2BqOv4xEJmw1GdgFBI5Q4k6kQa2k5wOdGk%2BdoiyMo64bH2iWFoHlKbtn%2FVNPVPVjmOP34QQaM5ohhecujpK4Forqj3TGo%2BmHkPhHyALOwk%2B5ni5Ss1Q%3D%3D",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "size": "G",
+        "stock": 5
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 7,
+    "imageSource": "uploaded",
+    "category": "Calças",
+    "updatedAt": "2026-06-09T16:26:11.722Z"
+  },
+  {
+    "id": "JCr5VhU8PRnxvzaUomQX",
+    "plusSized": false,
+    "name": "Calça Flare",
+    "sku": "3LNPG1LIH1",
+    "costPrice": 25,
+    "salePrice": 70,
+    "createdAt": "2026-04-27T20:48:20.667Z",
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/JCr5VhU8PRnxvzaUomQX.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2093092466&Signature=G%2BIbdRhcbZ8zHnhAHSffRG8J9nlU%2B4GXqcHmBGXpTyadBL3OWMse3Klqut5CMV%2FnPeVDKe9cAcZbX2CbPOzIS%2BMsdHRoj9qtXW9nth0DE70Z3uYYteBRiFGkZIMvHbwCv27aLQscPD%2FOdCLjpaanWskbK1HOJgpmOZIhDnmMs0Klxsul1INb1IjwmN7zF9mLELIQRfpW%2BQW7nVOVKaT2PbreYrJnhUtF4NyriUxub9HUPJELKw%2BW1b8B0kWcBjgIsuyg6GlSgg1Q9yryR9gKgUHeQFi%2F4KJEdSQAP1dQ8pwwooVkY5ivlIIwhIoDNJeqMsU9rNhEax1ofzZLShP1RQ%3D%3D",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 2
+      },
+      {
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "size": "G",
+        "stock": 1
+      },
+      {
+        "size": "GG",
+        "stock": 1
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 6,
+    "imageSource": "uploaded",
+    "category": "Calças",
+    "updatedAt": "2026-06-09T16:26:11.722Z"
+  },
+  {
+    "id": "vOgvLOuBRcE01PHcdCvA",
+    "plusSized": false,
+    "name": "Camisa Social",
+    "sku": "4R6T8EB6IQ",
+    "costPrice": 20,
+    "salePrice": 59.99,
+    "createdAt": "2026-03-17T11:29:43.949Z",
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/vOgvLOuBRcE01PHcdCvA.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091721343&Signature=OZn4SwhoiaO8wovf4qiOzlwilYJ6ZLfInY9WrcP3BQYXC0U1Nq4lB0HfuGfYYA81kyzgnsgHStpgUHmh2q31lIinRsirImdu3%2FQNhh%2BTNOdwIJLRJiZ%2Bsbfw0wpSfRwTt8a%2FtSuWuADNjvw4ffkxwUlVXOBNtjdOrA7%2BHx5NUi2LFFNArn2EOjwq%2Fp7iFja1oV6QsgYD2JgaydRgR%2BREa6edEMwQYigMO1k4fd0kOfT4OTdT0Gp0Ba6jSMTLOqE1maeWoNUl18Wprp%2B1Uc5WdApg52FxU8sG2KKoycGGiHas0aoYGnfHRABCw5EQEJOoqw62AzKzt4VrBFgxX18Oxw%3D%3D",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "size": "G",
+        "stock": 2
+      },
+      {
+        "size": "GG",
+        "stock": 4
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 9,
+    "imageSource": "uploaded",
+    "category": "Camisetas",
+    "updatedAt": "2026-06-09T16:26:11.722Z"
+  },
+  {
+    "id": "Ep3yCMzj9KkHwHr3n3g9",
+    "plusSized": false,
+    "name": "Camisa Textura",
+    "sku": "DE16O8HYI4",
+    "costPrice": 33.33,
+    "salePrice": 80,
+    "createdAt": "2026-04-06T22:25:41.693Z",
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/Ep3yCMzj9KkHwHr3n3g9.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091721511&Signature=IFSbrNhwEQ5Byo3JPVDipe5aQFSq9ILR5iV1GTiaYqsrKcBCAw%2Fv2VEf2kE1rwT53vXxIngRvc%2B16Ph8NV7b2Dfdjmtz8kZriQZdXxYRADVvxf2KtVGXdHOCloOKtbQctF2ry9hR7S38NLYSMBtePJmO64ekHqHzf7C%2BpTVivMsjaLeNNI%2BK99LenIQKJKdt4I4Sr6hE1yHnOMUl6kkHDvDPeblSdOiWncRXgYKnNy4fDhKqTguVnEvdwZdL2vKLnYeN2rhclMXuuE0TrlPdPJNqAIq%2FjOaf9YJ0x%2BaXAJbmyBM1oKCiClQBMp5X6W7YfmOUEn91jcUNss4yEFTGLw%3D%3D",
+    "sizes": [
+      {
+        "stock": 2,
+        "size": "TU"
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "stock": 0,
+        "size": "M"
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "stock": 0,
+        "size": "XG"
+      }
+    ],
+    "stock": 2,
+    "imageSource": "uploaded",
+    "category": "Camisetas",
+    "updatedAt": "2026-06-09T16:26:11.722Z"
+  },
+  {
+    "id": "tNoBOZ234Nrc1UxUsTbL",
+    "plusSized": false,
+    "createdAt": "2026-05-25T21:16:41.969Z",
+    "sku": "H0T83GYT14",
+    "name": "Camisa Xadrez",
+    "image": "https://picsum.photos/seed/1779743800108/400/400",
+    "salePrice": 80,
+    "costPrice": 28,
+    "sizes": [
+      {
+        "stock": 0,
+        "size": "TU"
+      },
+      {
+        "stock": 0,
+        "size": "P"
+      },
+      {
+        "stock": 1,
+        "size": "M"
+      },
+      {
+        "stock": 2,
+        "size": "G"
+      },
+      {
+        "stock": 2,
+        "size": "GG"
+      },
+      {
+        "stock": 0,
+        "size": "XG"
+      }
+    ],
+    "stock": 5,
+    "imageSource": "random",
+    "category": "Camisetas",
+    "updatedAt": "2026-06-09T16:26:11.722Z"
+  },
+  {
+    "id": "bzq11vK5V9IJABYjQEOk",
+    "plusSized": false,
+    "name": "Camiseta Benê",
+    "sku": "WPJPMP5L2W",
+    "costPrice": 32,
+    "salePrice": 45,
+    "createdAt": "2026-03-11T18:41:38.859Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 0,
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/bzq11vK5V9IJABYjQEOk.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091721612&Signature=aCeYE4ZDjOGn%2FBo%2F1lOWLVGFte%2FBaabzk7Fz3CCmTE80b7Iuk%2Bo92EchyCu9YvyP9CLrE396l57Ejds3t1jfNETSz9IaNoSI8WumHU3d9tiwtT2mOoYpdjruGWftzhDSbJ8ipZcoB0GrF97yeiVI8aaaVNy7pBwNb8eycwFvrMcQ%2BIzWnqdtwFHoTChZxqkhyyQ1YBl1UE9KKZx0VVZm6i32%2F5v3W8zPOggUhE4%2BH%2FkR17fLVQyz3Lw1z%2BqJrlOSkjdqOM734OnPQXcTDLjznjpozmKgTSpO95sBxWeJARVMw%2FFAhAVGlB1J2Xkb8AKQ5M8yy45UH7haWMMfIE6UAA%3D%3D",
+    "imageSource": "uploaded",
+    "category": "Camisetas",
+    "updatedAt": "2026-06-09T16:26:11.722Z"
+  },
+  {
+    "id": "ghonpAanTDjvX8WNzRF0",
+    "plusSized": false,
+    "costPrice": 13,
+    "createdAt": "2026-05-25T20:34:33.343Z",
+    "salePrice": 35,
+    "image": "https://picsum.photos/seed/1779741272174/400/400",
+    "sku": "XR9HEP2AVQ",
+    "name": "Camiseta Brasil",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 5
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 5,
+    "imageSource": "random",
+    "category": "Camisetas",
+    "updatedAt": "2026-06-09T16:26:11.722Z"
+  },
+  {
+    "id": "FjIFSEJQ3qdlRGxdIqkY",
+    "plusSized": false,
+    "name": "Camiseta Estampada",
+    "sku": "4GT6FIJB0Z",
+    "costPrice": 14,
+    "salePrice": 35,
+    "stock": 5,
+    "createdAt": "2026-02-18T15:09:52.133Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 5
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "imageSource": "none",
+    "category": "Camisetas",
+    "updatedAt": "2026-06-09T16:26:11.722Z"
+  },
+  {
+    "id": "CWUW5lBQ3N5ELKYN3oFW",
+    "plusSized": false,
+    "name": "Camiseta Gola Quadrada",
+    "sku": "CM266MXQ4L",
+    "costPrice": 13,
+    "salePrice": 35,
+    "stock": 10,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 10
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "createdAt": "2026-04-27T21:22:11.443Z",
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/CWUW5lBQ3N5ELKYN3oFW.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2093459427&Signature=ur1XyRRluhza7%2Fhuu9dKU3RyoOdDrgfhM5iySPS5g4ROl2Oa4igxMR%2BJQHvwKbpVu7mQM0oVAEZmqL5W7iXsy5c91tWi7iOeSrMwOKtBhwF8jOa0ZaCSmDQwfjFC7GSHpxYiS%2B0HZURs28HzkJOIAlYNwxo3SvR1H%2F198dVtw2GrFs1kXTHv3h%2BrxKQuke9Y8OkjrSSRv5Lahv7hOK316ISOTA9%2FmXNDxNWlhkdsWjBiUdP6D4NNp1GlxUWuQuXkANPULtuxjp8PRbAvLb%2F0j2jwzPP9lKPpLc9ss6QVpHXYD3UvE2T%2Fyp1OpUv04j2e5P%2F%2FFmPxK9xmtFSjy4cUCQ%3D%3D",
+    "imageSource": "uploaded",
+    "category": "Camisetas",
+    "updatedAt": "2026-06-09T16:26:11.722Z"
+  },
+  {
+    "id": "ObwghN3cqLAOB3fjaJiF",
+    "plusSized": false,
+    "name": "Camiseta Listrada Básica",
+    "sku": "EQYDMTQLEF",
+    "costPrice": 15,
+    "salePrice": 40,
+    "stock": 5,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 5
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "image": "https://picsum.photos/seed/1777326688821/400/400",
+    "createdAt": "2026-04-27T21:51:28.553Z",
+    "imageSource": "random",
+    "category": "Camisetas",
+    "updatedAt": "2026-06-09T16:26:11.722Z"
+  },
+  {
+    "id": "Fo6ufhmudCjUlcQwSdET",
+    "plusSized": false,
+    "ownerId": "owner-1",
+    "costPrice": 10,
+    "salePrice": 25,
+    "createdAt": "2026-01-17T15:50:03.979Z",
+    "sku": "X9M7LQZ2K5",
+    "name": "Carteiras (Legado)",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 0,
+    "imageSource": "none",
+    "category": "Acessórios",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "TkhgTPkym67nA9LHfMaY",
+    "plusSized": true,
+    "name": "Chamise",
+    "sku": "J7LH7Z00ZQ",
+    "costPrice": 33.33,
+    "salePrice": 80,
+    "createdAt": "2026-04-27T21:55:07.442Z",
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/TkhgTPkym67nA9LHfMaY.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2093094203&Signature=i84H7YXOa2JiMpZLka3j0Z3cC1kSUM95UgAH%2Fz9nFCytuYAlLHL5WqipQWQP9tLKa%2FPAc93lu2qai%2BmFzKXU4mZppLciUYIOFVuNN4W5T7s51x1uh2bzCQJ%2FSgc7wZ9jpYkdHXqCdErEV%2FKOlaxRiitU3K8QEz%2BFkeM1f0JVsVrJk01nPOiMVEX3Yi1oRi9DNTsPDrlAORPSKZnK8vOnyf3yBKKNchiRFZdWgAsLdHjSIQMvXChRTG2GQzKL6GjThiqI3LRNsGyW14TWDNNAKkOhpjIZ1x5nuRWgVqeUnKh170LkyGDvTaacTWKyy7u%2BQGTV5LeKtKJ3h7Wk9Mdc6A%3D%3D",
+    "sizes": [
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      },
+      {
+        "size": "G1",
+        "stock": 0
+      },
+      {
+        "size": "G2",
+        "stock": 1
+      },
+      {
+        "size": "G3",
+        "stock": 0
+      }
+    ],
+    "stock": 1,
+    "imageSource": "uploaded",
+    "category": "Vestidos",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "kEWVx52w5aJQGyPZT3p4",
+    "plusSized": true,
+    "name": "Chamise Longa",
+    "sku": "M5LU0TMY6E",
+    "costPrice": 50,
+    "salePrice": 120,
+    "createdAt": "2026-04-06T22:04:49.244Z",
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/kEWVx52w5aJQGyPZT3p4.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091721835&Signature=sPJf6F2VzDK5qVahqnnTp5lursohX%2FpXkWXQcMaIKv3KXKYAHLXrb6rdvTUY0KSgHx%2BqpX7YfJF9so26lwX2W1CuxK7VJCgCBOPlXvYvc9Ge%2BFHAZiHOtUi5zKvck9XbCCIKWVOhYhcfiDO80eM%2FYlnMemI%2BsASF0VIcJQ7ro6K98MJ1UR1Bv821tobAAgcJmVRw3QaR%2Fpjpi30ORePpiw7Ypcrxi5kAGNzGLGyqz8pGj5X2ShJYm2JkFmYmob285mwcCTZu4vzMZlu9EjDCxFJHigSKTUTXLpS1Y9M1Wm9DLRvMKR1ZVy%2BErXYtzW4TTIqxGOaDq7ilKD4qt8HeSQ%3D%3D",
+    "sizes": [
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      },
+      {
+        "size": "G1",
+        "stock": 0
+      },
+      {
+        "size": "G2",
+        "stock": 2
+      },
+      {
+        "size": "G3",
+        "stock": 0
+      }
+    ],
+    "stock": 2,
+    "imageSource": "uploaded",
+    "category": "Vestidos",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "r5B7I8HV8DWNXvvX8Fqs",
+    "plusSized": false,
+    "name": "Ciganinha",
+    "sku": "W8LNYCUSS3",
+    "costPrice": 13,
+    "createdAt": "2026-02-18T15:03:28.038Z",
+    "salePrice": 40,
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/r5B7I8HV8DWNXvvX8Fqs.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091721969&Signature=Mx91uoXf%2FfYD%2BvfzMdyxinmVOcz%2BdYSW1N7kZAqh9XW5kVNtdZdSROlI%2FBcjWdQpj6qp4HFj8AV2zWwJ%2FlwUtefWvMa2843O33Jg9yQOduxPkeUMs42lcE4kngIKtk9JGeqD5OFXaCeixUNPXfvQIyzGinMlMCxxeQpRN0MvT3zuODqTrms5HmLNcL%2B3BZxx8unzX8x5WWu%2Bk%2Bx2ltj9q9kVWBwottCRHQgAaL7GQKQ4a9ZnhI7TSu7cnvBzT9uzg2lCrB%2BZ758azVi5k%2FJc5zd7HhGxFgJQwVCF8Z0XoqimfoOwept4tY55yQyU6rJ5md5rZnvEtYnRD%2FTPLeuObQ%3D%3D",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 2
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 2,
+    "imageSource": "uploaded",
+    "category": "Camisetas",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "1dqEv7phUY7XDqe7z9ZX",
+    "plusSized": false,
+    "stock": 4,
+    "salePrice": 30,
+    "name": "Cinto",
+    "image": "https://picsum.photos/seed/1779741546304/400/400",
+    "createdAt": "2026-05-25T20:39:08.882Z",
+    "sizes": [
+      {
+        "stock": 4,
+        "size": "TU"
+      },
+      {
+        "stock": 0,
+        "size": "P"
+      },
+      {
+        "stock": 0,
+        "size": "M"
+      },
+      {
+        "stock": 0,
+        "size": "G"
+      },
+      {
+        "stock": 0,
+        "size": "GG"
+      },
+      {
+        "stock": 0,
+        "size": "XG"
+      }
+    ],
+    "sku": "4YHOHFW1XY",
+    "costPrice": 10,
+    "imageSource": "random",
+    "category": "Acessórios",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "FKovdtQVGWTJs6roAel0",
+    "plusSized": false,
+    "salePrice": 55,
+    "costPrice": 20,
+    "sizes": [
+      {
+        "stock": 2,
+        "size": "TU"
+      },
+      {
+        "stock": 0,
+        "size": "P"
+      },
+      {
+        "stock": 0,
+        "size": "M"
+      },
+      {
+        "stock": 0,
+        "size": "G"
+      },
+      {
+        "stock": 0,
+        "size": "GG"
+      },
+      {
+        "stock": 0,
+        "size": "XG"
+      }
+    ],
+    "createdAt": "2026-05-25T20:39:42.047Z",
+    "image": "https://picsum.photos/seed/1779741581022/400/400",
+    "stock": 2,
+    "name": "Cinto Country",
+    "sku": "62X7401VBS",
+    "imageSource": "random",
+    "category": "Acessórios",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "GeXIVz5JxCAT5J0WOmKk",
+    "plusSized": false,
+    "ownerId": "owner-1",
+    "costPrice": 10,
+    "createdAt": "2026-01-17T15:49:21.979Z",
+    "sku": "KZ7X9MQL2P",
+    "name": "Cintos (Legado)",
+    "stock": 12,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 12
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "salePrice": 30,
+    "imageSource": "none",
+    "category": "Acessórios",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "vrbpIxcj1t0IqZLREXyV",
+    "plusSized": false,
+    "name": "Conjuntinho Curto",
+    "ownerId": "owner-1",
+    "createdAt": "2026-01-17T15:23:34.703Z",
+    "sku": "Z9LQXM2K7P",
+    "salePrice": 79.99,
+    "costPrice": 30,
+    "sizes": [
+      {
+        "stock": 0,
+        "size": "TU"
+      },
+      {
+        "stock": 3,
+        "size": "P"
+      },
+      {
+        "stock": 5,
+        "size": "M"
+      },
+      {
+        "size": "G",
+        "stock": 13
+      },
+      {
+        "stock": 0,
+        "size": "GG"
+      },
+      {
+        "size": "XG",
+        "stock": 1
+      }
+    ],
+    "stock": 22,
+    "imageSource": "none",
+    "category": "Conjuntos",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "v9GOH1A9ZV7sPJizG2gD",
+    "plusSized": false,
+    "ownerId": "owner-1",
+    "costPrice": 45,
+    "salePrice": 90,
+    "createdAt": "2026-01-17T15:24:07.545Z",
+    "sku": "QK9Z7LMX2A",
+    "name": "Conjuntinho Longo (Legado)",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 0,
+    "imageSource": "none",
+    "category": "Conjuntos",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "bAPtEiM2RVSkw7ZxsFVx",
+    "plusSized": false,
+    "name": "Conjuntinho Shortsaia",
+    "sku": "42QSFX8RYE",
+    "ownerId": "owner-1",
+    "costPrice": 20,
+    "salePrice": 80,
+    "createdAt": "2026-02-03T21:04:35.881Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 1
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 1,
+    "imageSource": "none",
+    "category": "Shorts",
+    "updatedAt": "2026-06-09T17:07:45.140Z"
+  },
+  {
+    "id": "UDtTSyakPt85ndsLc8oY",
+    "plusSized": false,
+    "name": "Conjunto 3 Peças",
+    "sku": "GISFI9BDF2",
+    "costPrice": 40,
+    "createdAt": "2026-02-24T13:37:00.287Z",
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/UDtTSyakPt85ndsLc8oY.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091722218&Signature=etkCG8tOqp0F1EDht3eIhhXDytwGGCZSCsB2XXo3YYqEU4oEh%2F1Og3yMGe4Co561lyK2ANVX6%2BXlcpFBjiIj%2FlAEuzlFI8JeC4jqQsZcRLJP%2BfbIyif1RJBZP3wZTwWNGdGIU8Fua6MD8KQDFj3WAJmynhFRZIfIVA1SdlDjz4dbJHqKI6FQO79KsdVyPB3G2NOZBh6kLjlhydw1fsGXIfX2GogcwjEqrDxDCO8EvfPdLR4VcW%2FvOGMrj4JyEjoeiAiN7ziS1J1d9hI9o9IPY4YgTkc6VruhpTjVZEgDrX9uNK8ZzFPDGTmCf8%2BfUx%2BC6Cs%2FPvukyqQPU60JiYXA6A%3D%3D",
+    "salePrice": 99,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "size": "G",
+        "stock": 2
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 3,
+    "imageSource": "uploaded",
+    "category": "Conjuntos",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "ZjP6zR3TwU542fvr8J9c",
+    "plusSized": false,
+    "image": "https://picsum.photos/seed/1779741701168/400/400",
+    "createdAt": "2026-05-25T20:41:41.934Z",
+    "sku": "88AD4QEI11",
+    "name": "Conjunto Canelado Flare",
+    "costPrice": 50,
+    "salePrice": 140,
+    "sizes": [
+      {
+        "stock": 3,
+        "size": "TU"
+      },
+      {
+        "stock": 0,
+        "size": "P"
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 3,
+    "imageSource": "random",
+    "category": "Conjuntos",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "2ssJcIfEwILUfMJyuv7h",
+    "plusSized": false,
+    "name": "Conjunto Fivela",
+    "sku": "J6NIHTWN9F",
+    "costPrice": 40,
+    "salePrice": 90,
+    "stock": 8,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "size": "G",
+        "stock": 4
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/1776371295360-6hltpi.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091731297&Signature=ihTuSy4QVv8GUZWHLrJXbtekckK18G%2BTP4Hqwe%2Fre43A4HZmfmAG8R0BQM2K55iOZqxGp2qOSKZmLtUAEMgcmEaOjPYGfZAGXRzHiky%2BYoC%2FpdgtgLDws7A6L2IyheGtRM%2Bu0An1AmvJUv%2FX46%2FiZ6RsZbXd2g49pgqmkTxmUcHgE0M7rv3zmPjfo6gwXZhP376j%2BnfapoHwNzHwKGJhdcKc7gGl7gxaONHC6M6cwdLNA%2FjFnbFn5we04wj6TNQ6kvTVCHivFrm1NMa18ZyVcfFyPztmd64sahdaRTwHE0W9YL0UlKRPMr179CZjzuxRuLFopqrUo91UVBD4ODhPmA%3D%3D",
+    "createdAt": "2026-04-16T20:28:24.987Z",
+    "imageSource": "uploaded",
+    "category": "Conjuntos",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "2dqpBBkcPEWEaMHMFZbt",
+    "plusSized": false,
+    "name": "Conjunto Listrado",
+    "sku": "1ARM8NGDUY",
+    "costPrice": 55,
+    "salePrice": 99.99,
+    "createdAt": "2026-03-17T11:25:33.557Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 0,
+    "imageSource": "none",
+    "category": "Conjuntos",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "Pxy3NnGlMCJnCIPurxEz",
+    "plusSized": false,
+    "name": "Conjunto Manguinha",
+    "sku": "C7C6CSFLCQ",
+    "costPrice": 36,
+    "salePrice": 99.99,
+    "createdAt": "2026-03-17T11:35:57.853Z",
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/Pxy3NnGlMCJnCIPurxEz.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091723220&Signature=FJAwMuu%2B3U3HNVUTUZVybRgtFs3NmUhWtD3N8yQ3570MisYvB9dUJW4E5%2B1P5n1Gqm2GNIl3J%2BP4gMlY9E0KFPGsSjEWmhJn1oPDjxE0wosYWX4p%2BdBZwKOT4VKuVDSA8PflJQ88svUJA66qh1bOlrD9%2B4q17nd5BA60%2BPECAm5m3nBUbcYuB%2B4C7i5IJSx6%2FMcIzkR51PUrjbapMXksYTKMygHaFZQvGrh7%2FbhJ1absJohpHC56vjPEnRUghSLB5%2BIBvVzqTtrQI8eHcwLzM%2FRBBQFi0%2BAGk409WTxMjKdD21QbSJ49UzxyWR3s0FNs3Pj8L%2F626xAlXj1KTRsesg%3D%3D",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 2
+      },
+      {
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 2
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 8,
+    "imageSource": "uploaded",
+    "category": "Conjuntos",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "3OBz5nW84NTyMJjzwCJ4",
+    "plusSized": true,
+    "name": "Conjunto Plus",
+    "sku": "HWM2REJ0M4",
+    "costPrice": 30,
+    "salePrice": 90,
+    "createdAt": "2026-02-13T14:30:32.020Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 3
+      },
+      {
+        "size": "G1",
+        "stock": 0
+      },
+      {
+        "size": "G2",
+        "stock": 0
+      },
+      {
+        "size": "G3",
+        "stock": 0
+      }
+    ],
+    "stock": 3,
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/3OBz5nW84NTyMJjzwCJ4.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2093093117&Signature=F2xhmbXf9z0WunOopGbmrOc2X1qONYB3z3dkL6TjJLrzSz8rxDXTaDIrxWFRAsDT0CBP6PlpWFQkcKWz4G7CeybgiTD4scMvQlWttfjUOuidsUchYfW7xErtm7Up3FlYx9QAU8zFZJ8pEAOrtG41BEN8didmE0Fq32k1zeZ34mFBHX0a%2B%2FyWhM6Q%2BP0zYG10fel127zT2MSodKeN7V95%2FYfs3SPVoSNX%2F3ImeoqTZQiX0IqftK8s4zNU5nUHFQjFgKc%2BM9psD8df7rAe97rMPWRkZcZGwV25wQBopweDfMnw2u4cqxc9we1s1PjRCueiExIIupw30vuyE%2Be4BcNZqg%3D%3D",
+    "imageSource": "uploaded",
+    "category": "Conjuntos",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "98tpa363W6Yf7XvrBtag",
+    "plusSized": false,
+    "sku": "0OBI3B3HMP",
+    "sizes": [
+      {
+        "stock": 2,
+        "size": "TU"
+      },
+      {
+        "stock": 0,
+        "size": "P"
+      },
+      {
+        "stock": 0,
+        "size": "M"
+      },
+      {
+        "stock": 0,
+        "size": "G"
+      },
+      {
+        "stock": 0,
+        "size": "GG"
+      },
+      {
+        "stock": 0,
+        "size": "XG"
+      }
+    ],
+    "name": "Conjunto Saia Lãzinha",
+    "createdAt": "2026-05-25T21:03:33.623Z",
+    "image": "https://picsum.photos/seed/1779743008540/400/400",
+    "salePrice": 140,
+    "stock": 2,
+    "costPrice": 50,
+    "imageSource": "random",
+    "category": "Conjuntos",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "5DrSc2RkuimWNT6cGjM8",
+    "plusSized": false,
+    "name": "Conjunto Saia Mid",
+    "sku": "EVDBDQMGEL",
+    "ownerId": "owner-1",
+    "createdAt": "2026-02-03T21:12:05.922Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 4
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "salePrice": 60,
+    "costPrice": 25,
+    "stock": 4,
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/5DrSc2RkuimWNT6cGjM8.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2093093744&Signature=r%2BNZc5nY6D3Re9nr6nFWZU4syp7kuIZqxUP%2BQTknvDk1gJjlL5yloCZxBf74aognIe3ttM7ALdl575d8IfqDTpsm5E%2BitPgfh8sRvsLv40x%2FFotwRPLBeaK%2BRdv%2F%2FwwagpvPrpwVfNKYXrBseI0ZxTiQAcd7IVmwTSq9jV64ugVwO4iYrTz7HCN26bk5XhJaq%2BE62D2RHzucw2U5wQV5JX%2FvzC9RITv3vWYXmVXPhD%2FALi3bNA6f8T0nj7nMPQHVfGIU%2BQJ1ivEF%2B4J9s3Ppfy6hcygxES%2Fq6obH89XnAWoDoUDKgEHLMd1dZP16x1IJgm%2Fj2Hw6J6kflvpwfTrVbQ%3D%3D",
+    "imageSource": "uploaded",
+    "category": "Conjuntos",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "kUqVHJxF5DWk5UxkCOOI",
+    "plusSized": false,
+    "ownerId": "owner-1",
+    "costPrice": 10,
+    "salePrice": 30,
+    "createdAt": "2026-01-17T15:50:21.060Z",
+    "sku": "7ZKQ9LMX2A",
+    "name": "Corpete (Legado)",
+    "stock": 0,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "imageSource": "none",
+    "category": "Regatas",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "vOEKlx7zAhFEhMo8rOh0",
+    "plusSized": false,
+    "name": "Crop Farm Oversized Listrada",
+    "sku": "9XG5QE2OJH",
+    "ownerId": "owner-1",
+    "costPrice": 15,
+    "salePrice": 50,
+    "createdAt": "2026-02-03T21:35:07.837Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 0,
+    "imageSource": "none",
+    "category": "Camisetas",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "RAZKlT8YVJb0ATizhvMh",
+    "plusSized": false,
+    "sku": "J0XF6DUKL3",
+    "costPrice": 20,
+    "salePrice": 59.99,
+    "createdAt": "2026-03-17T12:09:03.097Z",
+    "name": "Cropped Blogueira",
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/RAZKlT8YVJb0ATizhvMh.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091725367&Signature=jOytMLqgQcfjachJLvd3xYQKjiXrZd4ZhY85ef46gbK50SwLH%2B68i0CKGc7O8P37XlF1KwRzAOVJCRfn%2FJmPDh%2F8VMorNONtQd6mDH1HVLHKGpl6ZltZDaZWNagpBL6qvIPOPkYw4ZX1mIOJpgBvzPC3cBnLvomYAY0s9ITxvlcYO%2Fa9hT1GoaVIRZC5Ci18tSqcwrpyo9OXLAGSyda7J9xlwQ39c50nEt9sQHPSCe%2FUY4FQBtnnD7gACaVDt7vQCdyyeQ0kzGUfrfrAPTJkmCl7JpVyx1eh55iHPsuNhPZOdD00ChzcodKyxopgZEMS%2FweYSNs4i4w%2FjbOQToJ5JQ%3D%3D",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 5
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 5,
+    "imageSource": "uploaded",
+    "category": "Camisetas",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "9yTempOC2uVhGyUkHoCY",
+    "plusSized": false,
+    "name": "Cropped Farm Oversized",
+    "sku": "TTNYY0MEQN",
+    "ownerId": "owner-1",
+    "costPrice": 19,
+    "salePrice": 60,
+    "createdAt": "2026-02-03T21:26:02.658Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 5
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 5,
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/9yTempOC2uVhGyUkHoCY.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2093094030&Signature=fw919e7WxkEyagwtVCV%2FkGwRazDwX4t6hgIQKIdZ6k07AEVlKm5vk62%2BeMyYY4NC%2Bhl69MiTAZcVF8m7Nhx1lMdNfUHqwR4dn31Bm1AJjNXzlf5BFUniEKOOyegfP6r3B2dvyIcmS9w%2FxPS4lbpQFmZGr2yIUTgOSKLT3G4frwI%2FEr9tmPHg9OlyJPPG6Rri10NMeI73YVfaoxRkMszqEbCKJ9l6jpsdMt6MCsgVMSfzRULVMPAfMVIFTvJIjexx0xIamryvMjMAjl3385RlVA0ROeJNwAfDKtN%2BG41B6Am8f3YPV%2BUolg0P37J51%2BQgsnT7WsyxQp1SFnlEJGCL9Q%3D%3D",
+    "imageSource": "uploaded",
+    "category": "Camisetas",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "WSWNOAXdLVYjwm8TCypn",
+    "plusSized": false,
+    "name": "Cropped Ribana Brasil",
+    "sku": "UWTAWQNL1A",
+    "costPrice": 15,
+    "createdAt": "2026-03-17T12:16:58.391Z",
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/WSWNOAXdLVYjwm8TCypn.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091727786&Signature=se4xw9b99aXFwXXVnGvTYB2budNFG8Zu4gSqgCG3hSFy9U1LbMfjeV0UvTyyGjpsqSM5rERKvUifZVYBdDk032O2CXtmBRqFyYXEarROVra2PYTgF%2FNc38M7vPbn38ezXEYTLHEH%2FUlRU4wlAoC6uhFQ4wnzinGQTns3Ca3%2Fxt1MD%2F%2FgJpiiUy%2F1F0fKco%2BQ%2BfPl9mSV0ooNDl6cCpc862OtHRYMU%2FISiIjGXCOOjaFdRRHs0b73QuUELWUTazegubQvA%2BjuyNY9EgfiSnVcTMjaodc562asuFy6kUWxGNVSGY4kCevh6Y9g9zqil%2BOGI2O%2BZfmhLjA0CdN0KWkDOg%3D%3D",
+    "salePrice": 34.99,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 2
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 2,
+    "imageSource": "uploaded",
+    "category": "Camisetas",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "aE17KDhzSWzsUOmPjBxu",
+    "plusSized": false,
+    "name": "Cruzadinha Estampada",
+    "sku": "U2KRX4SJ6L",
+    "costPrice": 13,
+    "salePrice": 35,
+    "createdAt": "2026-02-18T15:02:56.474Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 1
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 1,
+    "imageSource": "none",
+    "category": "Camisetas",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "4hyT7mXRgQYkIHLHCjhx",
+    "plusSized": false,
+    "name": "Gola Renda",
+    "sku": "RZLW7O0ODG",
+    "costPrice": 23,
+    "createdAt": "2026-04-06T22:09:22.113Z",
+    "salePrice": 50,
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/4hyT7mXRgQYkIHLHCjhx.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091728658&Signature=jaQ6OA5tx1PeCCELm60aiNuB7nMNue2BFEwG2SAy%2BjeENIsD50GhEi93eJh%2Bv2eq%2BmTXsUo0LJJAlR95xBmiAVCRdpOI94r%2F6kQ4bUoedY0Mz%2F%2F2kharD3%2BkqduqO2I8IyvPmVi1AVjg%2FbNVxuhII%2BwqMdHqy68tiaN0f%2F%2Bv54Wf%2BHAb8GarCvIABgYN%2F6KfHnYKqCirTdLu4lC9UzX48G4i9LEITYOsqRxX%2FGyrW0vDN8UgJIcggBImIizX8ykcpXjW37wEB8ShdxU30ms00fnkc9%2B79%2BwSPxySsjUKjR%2F8oSeC2gtpH9A8X6YoZDME8BifFktAQGc0elcERVcspw%3D%3D",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 3
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 3,
+    "imageSource": "uploaded",
+    "category": "Camisetas",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "MvC1X22qb23tfg0ZSNaJ",
+    "plusSized": false,
+    "name": "Jaqueta Courinho",
+    "sku": "LMOH6M3SHQ",
+    "costPrice": 35,
+    "salePrice": 90,
+    "createdAt": "2026-04-27T21:28:59.839Z",
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/MvC1X22qb23tfg0ZSNaJ.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2093094269&Signature=KYNKjyIRkKxRxN5TQA7SlEsYHRgTP6xiexzpq4VGPyj7yOiUsGwO0eAn2JrmKMcr%2B5ePpiQsVjWieFtLbef1RhRi0NzBIcfFOZuxworvlXgRWvovCb%2FBZenNABJSUii0opahB97Wx4AwiU%2FjJ4JK8rqk04oTjTY04vB4KxQt75RXZb5SYszuPmAq2xyi8WU70%2BnYcIkZGxEZUBTugj%2BbzWp5jZz2XtgcrHQnF0JuOSxVPQ9zoivKBWnTQjGLpsMbuEpc6I7rAqIxTmGveD88OqYsKyeAXgIbnQE0i7bKe2LBwFfyY0n5vTLT3yRy12H65%2Fp70S9Hp7coqJQEanguVA%3D%3D",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 2,
+    "imageSource": "uploaded",
+    "category": "Blusas",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "MGmu6NhiAcgzJBGrFr7d",
+    "plusSized": false,
+    "image": "https://picsum.photos/seed/1779745187836/400/400",
+    "costPrice": 45,
+    "sku": "BOT4KBN5OC",
+    "name": "Jaqueta Feltro",
+    "createdAt": "2026-05-25T21:39:48.722Z",
+    "salePrice": 120,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 1
+      },
+      {
+        "stock": 0,
+        "size": "P"
+      },
+      {
+        "stock": 0,
+        "size": "M"
+      },
+      {
+        "stock": 0,
+        "size": "G"
+      },
+      {
+        "stock": 0,
+        "size": "GG"
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 1,
+    "imageSource": "random",
+    "category": "Blusas",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "kkFm6QLXhVlN6KXi3GF4",
+    "plusSized": false,
+    "name": "Jaqueta Marrante",
+    "sku": "MC3B4OJJ7L",
+    "costPrice": 35,
+    "salePrice": 90,
+    "createdAt": "2026-04-27T21:29:57.786Z",
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/kkFm6QLXhVlN6KXi3GF4.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2093094345&Signature=hHTN8hpB%2BQGOOyIEriZbFWaka0EqP759acyVIMTUlOk0wrH%2Fbq2JFwF4VXbk5ne5Jn8C6S3Tfx510tcsYBs4p5VKPn%2BCPN8N5%2BZYgC%2FCA%2FFVRmBsimCCalLNjqdTX%2Bvl7GQF9tOB9F5JWT9pZaJyFq6eGLe9pd%2FpHTpwms1UuVCW3TJ%2FoNCnhLv18saIu3df%2FUd2hWQCfceVnSeduQlGNqi855yx0btpyDfCWLUC5b23RRun00WzBmDvNRVNu1uU%2BbUOTpwYjHq9yxuBmhowaeNu%2F6XGWs5SyHU8Z8s7FS255p1HtSiH08zacsFd7d6tk9JuZhk9%2FddyAWQMABk9UQ%3D%3D",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "stock": 0,
+        "size": "M"
+      },
+      {
+        "stock": 0,
+        "size": "G"
+      },
+      {
+        "size": "GG",
+        "stock": 1
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 1,
+    "imageSource": "uploaded",
+    "category": "Blusas",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "wJ9nWzYuc3U64bm85Yzr",
+    "plusSized": false,
+    "name": "Lenço",
+    "sku": "9E64XID6YL",
+    "costPrice": 10,
+    "salePrice": 29.99,
+    "createdAt": "2026-03-17T12:28:23.187Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 1
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 1,
+    "imageSource": "none",
+    "category": "Acessórios",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "UN9wcXQZbVYZEnjuuD0B",
+    "plusSized": false,
+    "ownerId": "owner-1",
+    "costPrice": 35,
+    "salePrice": 75,
+    "createdAt": "2026-01-17T15:44:12.898Z",
+    "sku": "M9KZQLX72P",
+    "name": "Macacão (Legado)",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "size": "G",
+        "stock": 3
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 7,
+    "imageSource": "none",
+    "updatedAt": "2026-06-09T14:12:01.999Z"
+  },
+  {
+    "id": "a28YgmX1D6psXPjGRLQN",
+    "plusSized": false,
+    "salePrice": 140,
+    "costPrice": 50,
+    "sku": "UBF556AGGG",
+    "createdAt": "2026-05-25T20:31:28.720Z",
+    "image": "https://picsum.photos/seed/1779741088052/400/400",
+    "stock": 3,
+    "name": "Macacão Alfaiataria",
+    "sizes": [
+      {
+        "stock": 3,
+        "size": "TU"
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "stock": 0,
+        "size": "M"
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "stock": 0,
+        "size": "GG"
+      },
+      {
+        "stock": 0,
+        "size": "XG"
+      }
+    ],
+    "imageSource": "random",
+    "updatedAt": "2026-06-09T14:12:01.999Z"
+  },
+  {
+    "id": "LxNgGgEGmC3ykJrkY2Z0",
+    "plusSized": false,
+    "name": "Macacão Assimétrico",
+    "sku": "58I5VYVIGC",
+    "costPrice": 65,
+    "salePrice": 150,
+    "createdAt": "2026-04-06T22:19:03.077Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 0,
+    "imageSource": "none",
+    "updatedAt": "2026-06-09T14:12:01.999Z"
+  },
+  {
+    "id": "hzT4eI2swh3UlY44P4bC",
+    "plusSized": false,
+    "name": "Macacão Gola",
+    "sku": "VRRJRZ6528",
+    "costPrice": 60,
+    "salePrice": 130,
+    "createdAt": "2026-04-06T22:11:46.104Z",
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/hzT4eI2swh3UlY44P4bC.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091729604&Signature=Zysn2hEdnGaePUh%2FoeS5d25RFYvt9GulEn2J%2BIbvjsA2hnDjsKbQi3%2FTtNoljmQqG%2BUmeqZyRf7vbGfX9EGNp3X4%2F69YaJyx%2BtlSDlDZoBNQUJi2jCoPobrn5CrgAyFwP6NGGwV0Bh5rE%2Fh45x3PRwa%2BY3yU9nS58sQZqxh5xpKJQvZ1VujMfkSoglkUT0PDbM5hqdB2lEDVYTZvlEX%2BK2KfZq7bcpYr4CgQCgIY1ZIPnckELX9zLIZZkK9cuxjcL2dH9Gn%2BO312boMZI8RvT2JZ7g%2BGln0neUMzNQwaBaMhXwvE9ft3s9GfwGnt3hJpJt4%2BpuCI58TgdYv7CNdUUg%3D%3D",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 2
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 2,
+    "imageSource": "uploaded",
+    "updatedAt": "2026-06-09T14:12:01.999Z"
+  },
+  {
+    "id": "ynt89iaN6Gs3pT6EIcxr",
+    "plusSized": false,
+    "sku": "1ABDYNICG3",
+    "costPrice": 70,
+    "salePrice": 150,
+    "createdAt": "2026-04-06T22:16:35.892Z",
+    "name": "Macacão Regata com Faixa",
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/ynt89iaN6Gs3pT6EIcxr.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091729718&Signature=UYSqgwiX1JwWvNLqPXUHOUYiqIxu6m%2Bng%2BJB4RQWWQZpsNqMLGDFLbGSF8FpydhgTU2NapPSFX8LLuIThu9VFv5EKpe4hw%2BZ9yBYHIPthOBW6nfZmdCUu2az7f19RY5dRb6neKwGocpzdF3Bbll7CvDVGXj%2B9GHj7kpl6oC4f3Gg4zKClSyVeZDcXVYpgVQIYS1KfT0inaapUTm%2FPJvmE%2BctzndlOYb8%2FP7dQP497c2wdJDNVlzqUo2BCkDIXxdZeGlaoh0zw93ZJssBSWk368p0oZe9UlYHbMkGwq%2FEbpAXpyLAw6tBAqJSfe2qvEyvuaju4wOt8GRC6ets7NCWbw%3D%3D",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "size": "G",
+        "stock": 2
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 3,
+    "imageSource": "uploaded",
+    "updatedAt": "2026-06-09T14:12:01.999Z"
+  },
+  {
+    "id": "fzMAQZJJjNdKWMEn7FDS",
+    "plusSized": false,
+    "name": "Macacão Show",
+    "sku": "U1BC8OGXM7",
+    "costPrice": 100,
+    "createdAt": "2026-04-06T22:10:31.580Z",
+    "salePrice": 200,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 1
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 1,
+    "imageSource": "none",
+    "updatedAt": "2026-06-09T14:12:01.999Z"
+  },
+  {
+    "id": "juaupHlgumBQzymKgIyb",
+    "plusSized": false,
+    "ownerId": "owner-1",
+    "costPrice": 30,
+    "salePrice": 70,
+    "createdAt": "2026-01-17T15:48:27.251Z",
+    "sku": "M9KZQLX72P",
+    "name": "Macaquinho (Legado)",
+    "sizes": [
+      {
+        "stock": 3,
+        "size": "TU"
+      },
+      {
+        "stock": 0,
+        "size": "P"
+      },
+      {
+        "stock": 2,
+        "size": "M"
+      },
+      {
+        "stock": 0,
+        "size": "G"
+      },
+      {
+        "stock": 0,
+        "size": "GG"
+      },
+      {
+        "stock": 0,
+        "size": "XG"
+      }
+    ],
+    "stock": 5,
+    "imageSource": "none",
+    "updatedAt": "2026-06-09T14:12:01.999Z"
+  },
+  {
+    "id": "WbLsvVlCohvRlWev8wn4",
+    "plusSized": false,
+    "name": "Macaquinho Academia",
+    "sku": "IZC06H1VS5",
+    "costPrice": 35,
+    "salePrice": 89.99,
+    "createdAt": "2026-03-17T18:11:34.182Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 0,
+    "imageSource": "none",
+    "updatedAt": "2026-06-09T14:12:01.999Z"
+  },
+  {
+    "id": "Y2RonPB4nBTmeV70nt9f",
+    "plusSized": false,
+    "name": "Macaquinho Alcinha",
+    "sku": "B7WY9RT4B2",
+    "costPrice": 35,
+    "salePrice": 90,
+    "image": "https://picsum.photos/seed/1777329892255/400/400",
+    "createdAt": "2026-04-27T22:46:36.625Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 1
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 1,
+    "imageSource": "random",
+    "updatedAt": "2026-06-09T14:12:01.999Z"
+  },
+  {
+    "id": "kKZFWdq2RH2CL89pBrRw",
+    "plusSized": false,
+    "name": "Macaquinho Conta",
+    "sku": "BKHD3HO78G",
+    "stock": 2,
+    "createdAt": "2026-02-24T13:33:12.140Z",
+    "salePrice": 75,
+    "costPrice": 25,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 2
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "imageSource": "none",
+    "updatedAt": "2026-06-09T14:12:01.999Z"
+  },
+  {
+    "id": "pcBoAHfhmyVcEiWedezQ",
+    "plusSized": false,
+    "name": "Macaquinho Estampado",
+    "sku": "BYOPUX0M5I",
+    "salePrice": 65,
+    "createdAt": "2026-02-24T13:34:15.902Z",
+    "costPrice": 25,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 1
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 2,
+    "imageSource": "none",
+    "updatedAt": "2026-06-09T14:12:01.999Z"
+  },
+  {
+    "id": "NMtqWjWO3kTkP8cdqvrb",
+    "plusSized": true,
+    "name": "Macaquinho Plus",
+    "sku": "Z3C09P4RHS",
+    "costPrice": 35,
+    "salePrice": 95,
+    "createdAt": "2026-02-24T13:23:45.836Z",
+    "sizes": [
+      {
+        "stock": 0,
+        "size": "GG"
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      },
+      {
+        "stock": 3,
+        "size": "G1"
+      },
+      {
+        "size": "G2",
+        "stock": 1
+      },
+      {
+        "size": "G3",
+        "stock": 0
+      }
+    ],
+    "stock": 4,
+    "imageSource": "none",
+    "updatedAt": "2026-06-09T14:12:01.999Z"
+  },
+  {
+    "id": "dK0ngv7gFBN5oA7Y3H0g",
+    "plusSized": false,
+    "sku": "BVKJXO0URJ",
+    "ownerId": "owner-1",
+    "costPrice": 35,
+    "salePrice": 90,
+    "createdAt": "2026-02-03T21:10:18.701Z",
+    "name": "Macaquinho Trêspontado",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 1
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 1,
+    "imageSource": "none",
+    "updatedAt": "2026-06-09T14:12:01.999Z"
+  },
+  {
+    "id": "fJnjlSEWZpB2lVmunSG1",
+    "plusSized": false,
+    "name": "Manga Longa Gola Alta",
+    "sku": "CRCM9CUL2A",
+    "createdAt": "2026-05-25T20:44:59.348Z",
+    "salePrice": 45,
+    "image": "https://picsum.photos/seed/1779741898780/400/400",
+    "costPrice": 15,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 3
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "stock": 0,
+        "size": "GG"
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 3,
+    "imageSource": "random",
+    "category": "Camisetas",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "mYkKCu9WTxXndZbsqDUD",
+    "plusSized": false,
+    "createdAt": "2026-05-25T20:51:30.504Z",
+    "sku": "HXUD3X798Q",
+    "costPrice": 15,
+    "image": "https://picsum.photos/seed/1779742289426/400/400",
+    "stock": 3,
+    "name": "Manga Longa Gola U",
+    "sizes": [
+      {
+        "stock": 3,
+        "size": "TU"
+      },
+      {
+        "stock": 0,
+        "size": "P"
+      },
+      {
+        "stock": 0,
+        "size": "M"
+      },
+      {
+        "stock": 0,
+        "size": "G"
+      },
+      {
+        "stock": 0,
+        "size": "GG"
+      },
+      {
+        "stock": 0,
+        "size": "XG"
+      }
+    ],
+    "salePrice": 45,
+    "imageSource": "random",
+    "category": "Camisetas",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "deQwXrzJAvyQMcetGfic",
+    "plusSized": false,
+    "costPrice": 15,
+    "name": "Manga Longa Gola V",
+    "createdAt": "2026-05-25T21:27:29.629Z",
+    "image": "https://picsum.photos/seed/1779744445842/400/400",
+    "salePrice": 50,
+    "sku": "V2XAI7JU05",
+    "imageSource": "random",
+    "sizes": [
+      {
+        "stock": 6,
+        "size": "TU"
+      },
+      {
+        "stock": 0,
+        "size": "P"
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "stock": 0,
+        "size": "XG"
+      }
+    ],
+    "stock": 6,
+    "category": "Camisetas",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "LJjUvmEOJpadaFPsUeSY",
+    "plusSized": false,
+    "name": "Nula Manga Drapeado",
+    "sku": "97OLPWMIQS",
+    "costPrice": 25,
+    "salePrice": 70,
+    "createdAt": "2026-04-06T22:22:25.173Z",
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/LJjUvmEOJpadaFPsUeSY.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091730780&Signature=gUmftwwiYfkooHRtXSI6k%2FAGDA0CiloabvuGSnp2ZPlQsZbEUaiLR%2FofrnAuPhbBDJv7tvBg%2BiLtfoQRkvTiC57lg011hKat%2FUZIXDZxTt08L4EQBrZMozW7ZggGTrpbQY6SaH%2Fz0oI5l2M%2F%2Fmhj2hE5AK7Qy%2FCU3IdP18Nn3t%2FNYPlh3nkMNTMEMERZDYoCS9gmdIAjh6Q9p7ulS2BIPqmg9q9UK5qVtqZh5x7Q8hqipzHjMRYMk8XQl7GIVfj3JFWzlgRXHhYG3IxtVJIkj2xzs6uwNZ3a01st%2FJiMcDTHW%2FGsMpGzCn68DvGPbV8iMHWPQqf521U6tSKh1DSZfQ%3D%3D",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 0,
+    "imageSource": "uploaded",
+    "category": "Camisetas",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "qsEQtqaZzUchwkvLKtEA",
+    "plusSized": false,
+    "name": "Nula Manga Longa",
+    "sku": "VF5LJJTC0V",
+    "costPrice": 15,
+    "salePrice": 39.99,
+    "stock": 4,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 4
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "createdAt": "2026-03-17T11:50:42.108Z",
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/qsEQtqaZzUchwkvLKtEA.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091731037&Signature=j1rpm22j%2FcmzrxCYjXBSvld021AZdlv1FPYB%2BILQWMAZTXAAO1b2qHKMcp2RiYkP6PcvJ28XMZgqGrfulvrrS6WJEUy%2FL2zEhw0fZPVDZ7I%2BqhCSKXf4uh4Bk%2BaLJzGc3BI31q4Mppox9KSncJz4AMkOAnkzt2vnpBL3jTNKYJ%2FENQLCLEAUKG9f0Mz8fppf9f4NmXWpyDwBHlIPwov2g8kH%2FIdUCddQgOBhsCIO1NarLeh81DSWsky5ird3wIdd1cg4gXExW4%2Bdi9C3gnKYOoXl52HN2Z9x7ABsky6OR%2F4qs6%2FDc27S905CN4prS4WqHGkUVtyM0WRxCyyET1osTg%3D%3D",
+    "imageSource": "uploaded",
+    "category": "Camisetas",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "FvNmgA1L4VKDq6Z770K4",
+    "plusSized": true,
+    "name": "Pantalona Plus",
+    "sku": "0SQCXB9KRR",
+    "ownerId": "owner-1",
+    "costPrice": 33.33,
+    "salePrice": 70,
+    "createdAt": "2026-02-03T20:04:54.297Z",
+    "stock": 1,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      },
+      {
+        "size": "G1",
+        "stock": 0
+      },
+      {
+        "size": "G2",
+        "stock": 0
+      },
+      {
+        "size": "G3",
+        "stock": 1
+      }
+    ],
+    "imageSource": "none",
+    "category": "Calças",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "Yh94yGujlz8VNWbZdDlB",
+    "plusSized": false,
+    "costPrice": 40,
+    "sizes": [
+      {
+        "stock": 5,
+        "size": "TU"
+      },
+      {
+        "stock": 0,
+        "size": "P"
+      },
+      {
+        "stock": 0,
+        "size": "M"
+      },
+      {
+        "stock": 0,
+        "size": "G"
+      },
+      {
+        "stock": 0,
+        "size": "GG"
+      },
+      {
+        "stock": 0,
+        "size": "XG"
+      }
+    ],
+    "image": "https://picsum.photos/seed/1779743999081/400/400",
+    "stock": 5,
+    "createdAt": "2026-05-25T21:20:00.245Z",
+    "sku": "KI1X67146G",
+    "name": "Poncho Tricô",
+    "salePrice": 120,
+    "imageSource": "random",
+    "category": "Blusas",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "lTpajpTWnWCrQ8Bl2gio",
+    "plusSized": false,
+    "name": "Regata Alça Franzida",
+    "sku": "GPDW4GV3XH",
+    "ownerId": "owner-1",
+    "costPrice": 12,
+    "salePrice": 25,
+    "createdAt": "2026-02-03T20:44:57.002Z",
+    "stock": 4,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 4
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "imageSource": "none",
+    "category": "Regatas",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "OXh6uKkEZHKWYmGLAlda",
+    "plusSized": false,
+    "name": "Regata Básica Babado",
+    "sku": "KMQBMITK8X",
+    "costPrice": 10,
+    "salePrice": 28.99,
+    "stock": 5,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 5
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "createdAt": "2026-03-17T12:36:31.838Z",
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/OXh6uKkEZHKWYmGLAlda.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091728078&Signature=JgUKEXC4WEymoAFIRJIb85SQr%2FTaGlGEdV5ZSwRDkptaYYiOAoLXg18c2m59gm1V9B5eHMwKUGcjdnMrBUbpwjRoCaJj1ZAytz4Zn5hSwlfaTfsvY9kcUjQnJtUXIlqUpVU59P60qSK4vJ46cGTvVp%2BHlKaOs84IJdJ5inR7LXsY%2Fjop39qRoG9SzKcL0OKJT4HObXhW%2Bajp1V4n6%2BhB3ld7rkGHZiiu%2F%2FRkIwzVEpj93S8OnencHbOKzmrAaZc9MFNMMH%2B6rxtw93pgaeL8vFAzhqTHbaTTM1YHroyQnRtsOW8bL1WVDY0o%2BMjYdD%2BNG0R0MrEgd3RG9pO8rCbWyw%3D%3D",
+    "imageSource": "uploaded",
+    "category": "Regatas",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "wY6uTM6ETNFThGybqEBO",
+    "plusSized": false,
+    "name": "Regata Estampada",
+    "sku": "0UQ5VZ1BN6",
+    "costPrice": 14,
+    "createdAt": "2026-02-18T15:07:33.679Z",
+    "salePrice": 30,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 0,
+    "imageSource": "none",
+    "category": "Regatas",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "JZTjNOa09173emlzKvfA",
+    "plusSized": false,
+    "name": "Regata Farm",
+    "sku": "U0Q5KM15C8",
+    "ownerId": "owner-1",
+    "costPrice": 15,
+    "createdAt": "2026-02-03T20:54:54.616Z",
+    "salePrice": 29.99,
+    "image": "",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 5
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 5,
+    "imageSource": "none",
+    "category": "Regatas",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "7YZRr2Alzmuw1escYvnP",
+    "plusSized": false,
+    "name": "Regata Nadadora",
+    "sku": "F3ZI05EZ13",
+    "ownerId": "owner-1",
+    "createdAt": "2026-02-03T20:43:59.449Z",
+    "image": "",
+    "salePrice": 35,
+    "costPrice": 13,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 11
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 11,
+    "imageSource": "none",
+    "category": "Regatas",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "1fvtre2lYw3oqXrtYash",
+    "plusSized": false,
+    "name": "Regatinha Canelada Lisa",
+    "sku": "S719UOW545",
+    "ownerId": "owner-1",
+    "costPrice": 15,
+    "createdAt": "2026-02-03T19:58:52.069Z",
+    "salePrice": 25,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 5
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 5,
+    "imageSource": "none",
+    "category": "Regatas",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "8TTAoYwAzbxKZwiS3kiq",
+    "plusSized": false,
+    "name": "Regatinha Canelada Listrada",
+    "sku": "VIC5TLNXZC",
+    "ownerId": "owner-1",
+    "costPrice": 15,
+    "stock": 4,
+    "createdAt": "2026-02-03T20:00:08.641Z",
+    "salePrice": 30,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "imageSource": "none",
+    "category": "Regatas",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "oSwcYnOBrzKAOyX7Z4G1",
+    "plusSized": false,
+    "name": "Saia",
+    "sku": "GA40UH005L",
+    "costPrice": 10,
+    "salePrice": 39.99,
+    "stock": 2,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "size": "G",
+        "stock": 1
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "createdAt": "2026-03-21T18:16:05.599Z",
+    "imageSource": "none",
+    "category": "Saias",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "nFyTkTyVHES1qhiQQPgm",
+    "plusSized": false,
+    "ownerId": "owner-1",
+    "costPrice": 20,
+    "createdAt": "2026-01-17T15:28:45.160Z",
+    "sku": "LXMZ9QK72P",
+    "name": "Saia (Legado)",
+    "salePrice": 55,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "size": "G",
+        "stock": 2
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 4,
+    "imageSource": "none",
+    "category": "Saias",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "F97lWHy063vzx0QouNrC",
+    "plusSized": false,
+    "name": "Saia Courinho",
+    "sku": "BDYGA4AZMW",
+    "costPrice": 40,
+    "salePrice": 110,
+    "image": "https://picsum.photos/seed/1777328464711/400/400",
+    "createdAt": "2026-04-27T22:21:06.935Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 1
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 1,
+    "imageSource": "random",
+    "category": "Saias",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "NvtvwydOgiISXE2iieGt",
+    "plusSized": false,
+    "ownerId": "owner-1",
+    "costPrice": 10,
+    "salePrice": 30,
+    "createdAt": "2026-01-17T15:50:42.805Z",
+    "sku": "QX2Z7KLM9A",
+    "name": "Saia Courinho (Legado)",
+    "stock": 4,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "size": "G",
+        "stock": 2
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "imageSource": "none",
+    "category": "Saias",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "k3jX7uCykVyCYoCbtlNm",
+    "plusSized": false,
+    "name": "Saia Envelope",
+    "sku": "YLSFZQXFG7",
+    "costPrice": 15,
+    "salePrice": 45,
+    "stock": 6,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 6
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/1777327781153-hig93m9.jpeg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2092687783&Signature=iNK49o%2BBu1ILKamGIlHJfacbufUYf%2FkdUAPD3TsXL4JMd98hX8jedfNTYub2i3%2BlCvwhzcNs3TSky7Hu539scWHsyUXS2yRB9L4exicc%2B47DhbValuH140NV7FiVEF2HskDPhLsx1ISyCOjE%2F3sUTPYVhMLfHB8Qn6JytyQxXQYL4h%2FeYtH3axJt9%2BcC%2FeAdR2GPIeBRDqA0mO13ebBgF8lNQDOKGb5%2B0YqQWMdcLXqwI35TaUHkX8Ij5u4gWP56y%2FDqis9zA9LHN0zUabrrMQjwWPr7CWsF8Ng7pnpnWbaIf7MfxqaEZ5azJo59m3b0HWVD3Tx59rEmZT%2Be%2B0z6vg%3D%3D",
+    "createdAt": "2026-04-27T22:09:49.051Z",
+    "imageSource": "uploaded",
+    "category": "Saias",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "5yga6SuIPbKKAq7Jpvmz",
+    "plusSized": false,
+    "name": "Saia Longa Godê",
+    "sku": "7K2QD3N1IX",
+    "costPrice": 26,
+    "salePrice": 70,
+    "stock": 1,
+    "createdAt": "2026-02-18T15:12:28.819Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 1
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "imageSource": "none",
+    "category": "Saias",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "k3zZ9v7qsKOk7EFFlayE",
+    "plusSized": false,
+    "name": "Saia Malha",
+    "sku": "KZU1TAMER5",
+    "costPrice": 20,
+    "salePrice": 60,
+    "stock": 5,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 5
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "image": "https://picsum.photos/seed/1777323626725/400/400",
+    "createdAt": "2026-04-27T21:03:32.668Z",
+    "imageSource": "random",
+    "category": "Saias",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "Fy0Tg0a1pVgxrbzj3hvB",
+    "plusSized": false,
+    "name": "Short Alfaiataria",
+    "sku": "NI9VYNG500",
+    "ownerId": "owner-1",
+    "costPrice": 20,
+    "salePrice": 60,
+    "createdAt": "2026-02-03T20:50:00.220Z",
+    "image": "",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 2
+      },
+      {
+        "size": "M",
+        "stock": 7
+      },
+      {
+        "size": "G",
+        "stock": 1
+      },
+      {
+        "size": "GG",
+        "stock": 6
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 16,
+    "imageSource": "none",
+    "category": "Shorts",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "2s6lEFDDe3W84nIcs4VQ",
+    "plusSized": true,
+    "name": "Short Cinto Plus",
+    "sku": "HXE7IST4OA",
+    "ownerId": "owner-1",
+    "costPrice": 30,
+    "salePrice": 80,
+    "createdAt": "2026-02-03T21:13:45.261Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      },
+      {
+        "size": "G1",
+        "stock": 2
+      },
+      {
+        "size": "G2",
+        "stock": 2
+      },
+      {
+        "size": "G3",
+        "stock": 4
+      }
+    ],
+    "stock": 8,
+    "imageSource": "none",
+    "category": "Shorts",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "8DxjXJUBoeEfp1ywhqKV",
+    "plusSized": false,
+    "name": "Short Duna",
+    "sku": "NMGT19U6ZZ",
+    "costPrice": 10,
+    "createdAt": "2026-02-24T14:10:35.023Z",
+    "salePrice": 25,
+    "stock": 8,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "size": "G",
+        "stock": 4
+      },
+      {
+        "size": "GG",
+        "stock": 2
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "imageSource": "none",
+    "category": "Shorts",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "IB5ujGGBX2Kp9HqYn7hH",
+    "plusSized": false,
+    "name": "Short Linho",
+    "sku": "J07C82ROBD",
+    "ownerId": "owner-1",
+    "costPrice": 20,
+    "salePrice": 55,
+    "createdAt": "2026-02-03T20:49:17.033Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "size": "G",
+        "stock": 5
+      },
+      {
+        "size": "GG",
+        "stock": 4
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 13,
+    "imageSource": "none",
+    "category": "Shorts",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "2aNJLT5YctKKHwQv34eb",
+    "plusSized": true,
+    "name": "Short Viscolycra",
+    "sku": "88YSZCS0SP",
+    "costPrice": 11,
+    "salePrice": 30,
+    "createdAt": "2026-02-18T15:13:04.606Z",
+    "sizes": [
+      {
+        "size": "GG",
+        "stock": 3
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      },
+      {
+        "size": "G1",
+        "stock": 0
+      },
+      {
+        "size": "G2",
+        "stock": 0
+      },
+      {
+        "size": "G3",
+        "stock": 0
+      }
+    ],
+    "stock": 3,
+    "imageSource": "none",
+    "category": "Shorts",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "Amwq1K88AEOn7TIu0zc6",
+    "plusSized": false,
+    "ownerId": "owner-1",
+    "costPrice": 20,
+    "salePrice": 40,
+    "createdAt": "2026-01-17T15:26:59.318Z",
+    "sku": "ZQ5L7M9X2K",
+    "name": "Shortinho (Legado)",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 1
+      },
+      {
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "size": "G",
+        "stock": 2
+      },
+      {
+        "size": "GG",
+        "stock": 2
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 9,
+    "imageSource": "none",
+    "category": "Shorts",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "xPEPmv3rhhPkSvNMjgeN",
+    "plusSized": true,
+    "sku": "FJKVCZOYTX",
+    "costPrice": 15,
+    "salePrice": 45,
+    "createdAt": "2026-02-24T14:04:22.549Z",
+    "sizes": [
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      },
+      {
+        "size": "G1",
+        "stock": 2
+      },
+      {
+        "size": "G2",
+        "stock": 2
+      },
+      {
+        "size": "G3",
+        "stock": 1
+      }
+    ],
+    "name": "Shortinho Estampado Plus",
+    "stock": 5,
+    "imageSource": "none",
+    "category": "Shorts",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "hfbJ1mG9E72b1H9WHQIf",
+    "plusSized": false,
+    "name": "Shortinho Farm",
+    "sku": "M969KYOTH8",
+    "ownerId": "owner-1",
+    "costPrice": 13,
+    "salePrice": 40,
+    "createdAt": "2026-02-03T19:56:20.868Z",
+    "stock": 6,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 2
+      },
+      {
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "size": "G",
+        "stock": 1
+      },
+      {
+        "size": "GG",
+        "stock": 1
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "imageSource": "none",
+    "category": "Shorts",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "khEJdKnTPeOFz1zmfKmv",
+    "plusSized": false,
+    "sku": "W7780M5H6C",
+    "ownerId": "owner-1",
+    "costPrice": 20,
+    "createdAt": "2026-02-03T20:57:40.922Z",
+    "name": "Shortsaia Indiano",
+    "salePrice": 45,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "size": "G",
+        "stock": 2
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 3,
+    "imageSource": "none",
+    "category": "Shorts",
+    "updatedAt": "2026-06-09T17:04:59.778Z"
+  },
+  {
+    "id": "GMNNuAGfEraMX73gBn7o",
+    "plusSized": false,
+    "name": "T-shirt Brasil",
+    "sku": "BUPVSHBA15",
+    "costPrice": 16.67,
+    "salePrice": 49.99,
+    "stock": 2,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 2
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "createdAt": "2026-03-17T11:05:45.275Z",
+    "imageSource": "none",
+    "updatedAt": "2026-06-09T14:12:01.999Z"
+  },
+  {
+    "id": "OHVvYBUqidtlO4pHsKDx",
+    "plusSized": true,
+    "name": "T-shirt Brasil Plus",
+    "sku": "CE0BEGYG3K",
+    "costPrice": 20,
+    "salePrice": 49.99,
+    "createdAt": "2026-03-17T11:06:14.328Z",
+    "sizes": [
+      {
+        "size": "GG",
+        "stock": 1
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      },
+      {
+        "size": "G1",
+        "stock": 0
+      },
+      {
+        "size": "G2",
+        "stock": 0
+      },
+      {
+        "size": "G3",
+        "stock": 0
+      }
+    ],
+    "stock": 1,
+    "imageSource": "none",
+    "updatedAt": "2026-06-09T14:12:01.999Z"
+  },
+  {
+    "id": "VR4SjZiIvXBGZtg8rF0n",
+    "plusSized": false,
+    "name": "T-shirt Estampada",
+    "sku": "7CV86XBVOC",
+    "costPrice": 14.44,
+    "createdAt": "2026-03-17T11:03:08.867Z",
+    "salePrice": 44.99,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 6
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 6,
+    "imageSource": "none",
+    "updatedAt": "2026-06-09T14:12:01.999Z"
+  },
+  {
+    "id": "suPV7JoDRzL8kvgESJ0f",
+    "plusSized": true,
+    "name": "T-shirt Estampada Plus",
+    "sku": "8UH5M70DE8",
+    "costPrice": 20,
+    "createdAt": "2026-03-17T11:03:34.158Z",
+    "salePrice": 44.99,
+    "sizes": [
+      {
+        "size": "GG",
+        "stock": 9
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      },
+      {
+        "size": "G1",
+        "stock": 0
+      },
+      {
+        "size": "G2",
+        "stock": 0
+      },
+      {
+        "size": "G3",
+        "stock": 0
+      }
+    ],
+    "stock": 9,
+    "imageSource": "none",
+    "updatedAt": "2026-06-09T14:12:01.999Z"
+  },
+  {
+    "id": "8jvYHxTTkNXWxijbtN4r",
+    "plusSized": false,
+    "name": "T-shirt Farm",
+    "sku": "7WF2B0QVZ4",
+    "ownerId": "owner-1",
+    "costPrice": 15,
+    "salePrice": 45,
+    "createdAt": "2026-02-03T21:33:45.398Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 2,
+    "imageSource": "none",
+    "updatedAt": "2026-06-09T14:12:01.999Z"
+  },
+  {
+    "id": "toTBZaOjuL97ijlSlS52",
+    "plusSized": false,
+    "name": "Top Courinho",
+    "sku": "POBXBAW9YY",
+    "costPrice": 25,
+    "salePrice": 70,
+    "image": "https://picsum.photos/seed/1777324003156/400/400",
+    "createdAt": "2026-04-27T21:06:44.568Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 3
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 3,
+    "imageSource": "random",
+    "updatedAt": "2026-06-09T14:12:01.999Z"
+  },
+  {
+    "id": "QFZvqQ75wb4KHe6Mz3YM",
+    "plusSized": false,
+    "name": "Top Faixa",
+    "sku": "FQW90M4SDS",
+    "costPrice": 15,
+    "salePrice": 40,
+    "image": "https://picsum.photos/seed/1777323431550/400/400",
+    "createdAt": "2026-04-27T20:57:15.397Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 3
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 3,
+    "imageSource": "random",
+    "updatedAt": "2026-06-09T14:12:01.999Z"
+  },
+  {
+    "id": "vID0sqQCKu9wjSTbNpNj",
+    "plusSized": false,
+    "name": "Vestido Alcinha Longo",
+    "sku": "879RKP34V9",
+    "costPrice": 25,
+    "stock": 3,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 3
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "image": "https://picsum.photos/seed/1777328097833/400/400",
+    "createdAt": "2026-04-27T22:14:58.476Z",
+    "salePrice": 60,
+    "imageSource": "random",
+    "category": "Vestidos",
+    "updatedAt": "2026-06-09T17:07:35.412Z"
+  },
+  {
+    "id": "E48eOKKjbUVGdV6Aw6F9",
+    "plusSized": false,
+    "createdAt": "2026-05-25T21:14:29.770Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 2
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "stock": 0,
+        "size": "GG"
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "costPrice": 50,
+    "sku": "EF39XQVZ3L",
+    "name": "Vestido Alfaiataria",
+    "image": "https://picsum.photos/seed/1779743668828/400/400",
+    "stock": 2,
+    "salePrice": 130,
+    "imageSource": "random",
+    "category": "Vestidos",
+    "updatedAt": "2026-06-09T17:07:35.412Z"
+  },
+  {
+    "id": "YqfeIvZURc5u8jSySM0N",
+    "plusSized": false,
+    "name": "Vestido Brilho Bojo",
+    "sku": "TLZ4RD1UTA",
+    "costPrice": 18,
+    "salePrice": 60,
+    "stock": 5,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 5
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "image": "https://picsum.photos/seed/1777329105319/400/400",
+    "createdAt": "2026-04-27T22:40:22.680Z",
+    "imageSource": "random",
+    "category": "Vestidos",
+    "updatedAt": "2026-06-09T17:07:35.412Z"
+  },
+  {
+    "id": "7SToMiEaG0ngEr204SdD",
+    "plusSized": false,
+    "name": "Vestido Candy",
+    "sku": "3A6HVH0Y9J",
+    "costPrice": 35,
+    "salePrice": 80,
+    "createdAt": "2026-02-11T19:23:04.946Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 4
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 4,
+    "imageSource": "none",
+    "category": "Vestidos",
+    "updatedAt": "2026-06-09T17:07:35.412Z"
+  },
+  {
+    "id": "HIyLVQcKF6rgvTOWKUwr",
+    "plusSized": false,
+    "name": "Vestido Courinho Curto",
+    "sku": "87FWUUQOTU",
+    "costPrice": 35,
+    "salePrice": 90,
+    "image": "https://picsum.photos/seed/1777329740189/400/400",
+    "createdAt": "2026-04-27T22:42:20.341Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 2
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 2,
+    "imageSource": "random",
+    "category": "Vestidos",
+    "updatedAt": "2026-06-09T17:07:35.412Z"
+  },
+  {
+    "id": "PsOMSP0m1O4WsttSQvhe",
+    "plusSized": false,
+    "name": "Vestido Curto Elastano",
+    "sku": "3PBURAMA5R",
+    "costPrice": 20,
+    "createdAt": "2026-03-17T12:23:33.101Z",
+    "salePrice": 59.99,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 1
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 1,
+    "imageSource": "none",
+    "category": "Vestidos",
+    "updatedAt": "2026-06-09T17:07:35.412Z"
+  },
+  {
+    "id": "Nt7CGcUp6BtQLbmb8hJU",
+    "plusSized": false,
+    "name": "Vestido Curto Estampado",
+    "sku": "N23ZYDGA30",
+    "costPrice": 25,
+    "createdAt": "2026-02-24T13:42:28.322Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 4
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 1
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 8,
+    "salePrice": 59.99,
+    "imageSource": "none",
+    "category": "Vestidos",
+    "updatedAt": "2026-06-09T17:07:35.412Z"
+  },
+  {
+    "id": "nlsp1u1s5aEMgEQDo0bn",
+    "plusSized": false,
+    "name": "Vestido Curto Florido",
+    "sku": "IXTD4JD79P",
+    "costPrice": 35,
+    "salePrice": 80,
+    "stock": 3,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 3
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "image": "https://picsum.photos/seed/1777330312263/400/400",
+    "createdAt": "2026-04-27T22:52:10.904Z",
+    "imageSource": "random",
+    "category": "Vestidos",
+    "updatedAt": "2026-06-09T17:07:35.412Z"
+  },
+  {
+    "id": "Ors1wjl2cYXUlODjDRBl",
+    "plusSized": true,
+    "name": "Vestido Curto Plus",
+    "sku": "OZSARABCQD",
+    "costPrice": 25,
+    "createdAt": "2026-02-13T14:36:05.871Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      },
+      {
+        "size": "G1",
+        "stock": 0
+      },
+      {
+        "size": "G2",
+        "stock": 0
+      },
+      {
+        "size": "G3",
+        "stock": 0
+      }
+    ],
+    "stock": 0,
+    "salePrice": 59.99,
+    "imageSource": "none",
+    "category": "Vestidos",
+    "updatedAt": "2026-06-09T17:07:35.412Z"
+  },
+  {
+    "id": "ra9R9qzmpExoQcIuEDf6",
+    "plusSized": true,
+    "name": "Vestido Duna",
+    "sku": "O9FMK4YAOR",
+    "costPrice": 20,
+    "salePrice": 60,
+    "createdAt": "2026-04-06T22:06:02.719Z",
+    "image": "https://storage.googleapis.com/loja-7cb7b.firebasestorage.app/produtos/ra9R9qzmpExoQcIuEDf6.jpg?GoogleAccessId=firebase-adminsdk-fbsvc%40loja-7cb7b.iam.gserviceaccount.com&Expires=2091729295&Signature=eip6sWnRdOz3Uh91jLzTDpTltVuQADbT0nhnOFxw61UYArjVEao0eCvzVcTA3JnNdUOfIBJCfnNM%2B8Q%2F1Kbnnc5BJGiR5sT4o5mMFsYqh1Kk09qrlH5M7p6HlR%2FNMu6CxrWU8UkZyDbfU4VT1%2F0TiTAp2Ob5qgLqiRPFO49VhPFgu6ZhHRc8f8lGmclc2PXPuKrNMKJEKx5RxTOysXtkiXqIN0dz4tU7KXN39vSfX%2B7r%2F1XktcMxRkFFNuVW7OuKLlPmiAG%2F0o%2Bhh9BJ%2BPqSesYXXUZOr3SAnCTeqpBDbwf9NQhdX9EWGcGolg6vY7xETyDFmic0RTZJCrQoSh2Amw%3D%3D",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 4
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 4,
+    "imageSource": "uploaded",
+    "category": "Vestidos",
+    "updatedAt": "2026-06-09T17:07:35.412Z"
+  },
+  {
+    "id": "w8s89EJJWMakGrlWhKSw",
+    "plusSized": false,
+    "name": "Vestido Duna TQC",
+    "sku": "FKVPPTD703",
+    "costPrice": 40,
+    "salePrice": 120,
+    "stock": 5,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 5
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "image": "https://picsum.photos/seed/1777330090486/400/400",
+    "createdAt": "2026-04-27T22:48:12.017Z",
+    "imageSource": "random",
+    "category": "Vestidos",
+    "updatedAt": "2026-06-09T17:07:35.412Z"
+  },
+  {
+    "id": "2dimJ6zJg66Q1GWNMVyZ",
+    "plusSized": false,
+    "sku": "2NRBPDOR8P",
+    "ownerId": "owner-1",
+    "costPrice": 20,
+    "createdAt": "2026-02-03T20:42:43.809Z",
+    "salePrice": 59.99,
+    "name": "Vestido Farm Curto",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 1
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 1,
+    "imageSource": "none",
+    "category": "Vestidos",
+    "updatedAt": "2026-06-09T17:07:35.412Z"
+  },
+  {
+    "id": "ZgWmJe3CTBwbsrVeJgCJ",
+    "plusSized": true,
+    "name": "Vestido Farm Plus",
+    "sku": "SBFZBFTKPP",
+    "ownerId": "owner-1",
+    "costPrice": 33.33,
+    "createdAt": "2026-02-03T20:53:28.574Z",
+    "image": "",
+    "salePrice": 79.99,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      },
+      {
+        "size": "G1",
+        "stock": 0
+      },
+      {
+        "size": "G2",
+        "stock": 0
+      },
+      {
+        "size": "G3",
+        "stock": 0
+      }
+    ],
+    "stock": 0,
+    "imageSource": "none",
+    "category": "Vestidos",
+    "updatedAt": "2026-06-09T17:07:35.412Z"
+  },
+  {
+    "id": "pVXGdJv4mJRcvpVO2JDS",
+    "plusSized": false,
+    "sizes": [
+      {
+        "stock": 3,
+        "size": "TU"
+      },
+      {
+        "stock": 0,
+        "size": "P"
+      },
+      {
+        "stock": 0,
+        "size": "M"
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "name": "Vestido Fivela Rosa",
+    "image": "https://picsum.photos/seed/1779742589329/400/400",
+    "createdAt": "2026-05-25T20:56:32.388Z",
+    "stock": 3,
+    "salePrice": 150,
+    "sku": "RXSIV4KQ1B",
+    "costPrice": 60,
+    "imageSource": "random",
+    "category": "Vestidos",
+    "updatedAt": "2026-06-09T17:07:35.412Z"
+  },
+  {
+    "id": "nK21TjFFMsbqkpi0SY7V",
+    "plusSized": false,
+    "name": "Vestido Indiano",
+    "sku": "H9Y3SDMXAH",
+    "costPrice": 50,
+    "salePrice": 120,
+    "image": "https://picsum.photos/seed/1777326806677/400/400",
+    "createdAt": "2026-04-27T21:53:33.502Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 0,
+    "imageSource": "random",
+    "category": "Vestidos",
+    "updatedAt": "2026-06-09T17:07:35.412Z"
+  },
+  {
+    "id": "YwJMv2JLa9q212qkTrE5",
+    "plusSized": true,
+    "name": "Vestido Longo Aberto Plus",
+    "sku": "O1XI9EWJHE",
+    "costPrice": 35,
+    "createdAt": "2026-02-13T14:34:54.463Z",
+    "salePrice": 74.99,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 3
+      },
+      {
+        "size": "G1",
+        "stock": 0
+      },
+      {
+        "size": "G2",
+        "stock": 0
+      },
+      {
+        "size": "G3",
+        "stock": 0
+      }
+    ],
+    "stock": 3,
+    "imageSource": "none",
+    "category": "Vestidos",
+    "updatedAt": "2026-06-09T17:07:35.412Z"
+  },
+  {
+    "id": "HQXwNtqCCasuZTJQn9CV",
+    "plusSized": false,
+    "name": "Vestido Longo Elastano",
+    "sku": "2VC334IQI4",
+    "costPrice": 30,
+    "createdAt": "2026-03-17T11:55:38.175Z",
+    "salePrice": 74.99,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 2
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 2,
+    "imageSource": "none",
+    "category": "Vestidos",
+    "updatedAt": "2026-06-09T17:07:35.412Z"
+  },
+  {
+    "id": "2au1cbaA60BGSQQPwOg3",
+    "plusSized": true,
+    "name": "Vestido Longo Gola Plus",
+    "sku": "LGIAEYR4SZ",
+    "costPrice": 35,
+    "createdAt": "2026-02-13T14:33:00.557Z",
+    "salePrice": 74.99,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 1
+      },
+      {
+        "size": "G1",
+        "stock": 0
+      },
+      {
+        "size": "G2",
+        "stock": 0
+      },
+      {
+        "size": "G3",
+        "stock": 0
+      }
+    ],
+    "stock": 1,
+    "imageSource": "none",
+    "category": "Vestidos",
+    "updatedAt": "2026-06-09T17:07:35.412Z"
+  },
+  {
+    "id": "9jRVauW71SxJVBZ50Q8Z",
+    "plusSized": false,
+    "image": "https://picsum.photos/seed/1779742442601/400/400",
+    "sku": "MM0CTTYCLF",
+    "salePrice": 130,
+    "costPrice": 55,
+    "createdAt": "2026-05-25T20:54:03.221Z",
+    "name": "Vestido Manga Princesa",
+    "sizes": [
+      {
+        "stock": 1,
+        "size": "TU"
+      },
+      {
+        "stock": 0,
+        "size": "P"
+      },
+      {
+        "stock": 0,
+        "size": "M"
+      },
+      {
+        "stock": 0,
+        "size": "G"
+      },
+      {
+        "stock": 0,
+        "size": "GG"
+      },
+      {
+        "stock": 0,
+        "size": "XG"
+      }
+    ],
+    "stock": 1,
+    "imageSource": "random",
+    "category": "Vestidos",
+    "updatedAt": "2026-06-09T17:07:35.412Z"
+  },
+  {
+    "id": "J9DyZJg98swuqHuDu1J5",
+    "plusSized": false,
+    "name": "Vestido Mid Botão",
+    "sku": "NXPVO3VN38",
+    "costPrice": 50,
+    "salePrice": 140,
+    "image": "https://picsum.photos/seed/1777327157446/400/400",
+    "createdAt": "2026-04-27T21:59:17.748Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "size": "G",
+        "stock": 4
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 7,
+    "imageSource": "random",
+    "category": "Vestidos",
+    "updatedAt": "2026-06-09T17:07:35.412Z"
+  },
+  {
+    "id": "RCSIwuRR6gzmi9kz2BDX",
+    "plusSized": false,
+    "name": "Vestido Miçanga",
+    "sku": "KJ3RVW8CVR",
+    "ownerId": "owner-1",
+    "costPrice": 65,
+    "salePrice": 120,
+    "createdAt": "2026-02-03T21:16:09.367Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 0
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 1
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 1,
+    "imageSource": "none",
+    "category": "Vestidos",
+    "updatedAt": "2026-06-09T17:07:35.412Z"
+  },
+  {
+    "id": "29YahNM3S8FCZHSNFsls",
+    "plusSized": false,
+    "name": "Vestido Modal",
+    "sku": "ASY71HNB6I",
+    "costPrice": 28,
+    "createdAt": "2026-04-06T22:23:33.415Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 7
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "salePrice": 75,
+    "stock": 7,
+    "imageSource": "none",
+    "category": "Vestidos",
+    "updatedAt": "2026-06-09T17:07:35.412Z"
+  },
+  {
+    "id": "Uayah9HlH68zr2mhP0b2",
+    "plusSized": false,
+    "name": "Vestido Moletinho",
+    "sku": "AIA2CBYQI8",
+    "costPrice": 55,
+    "salePrice": 130,
+    "image": "https://picsum.photos/seed/1777326509586/400/400",
+    "createdAt": "2026-04-27T21:48:30.261Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 2
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 2,
+    "imageSource": "random",
+    "category": "Vestidos",
+    "updatedAt": "2026-06-09T17:07:35.412Z"
+  },
+  {
+    "id": "6lfCdT5O28OrHblKBlLA",
+    "plusSized": false,
+    "sku": "7HDZJZ5E40",
+    "salePrice": 150,
+    "createdAt": "2026-05-25T21:10:45.753Z",
+    "name": "Vestido Plissado",
+    "image": "https://picsum.photos/seed/1779743445016/400/400",
+    "stock": 4,
+    "costPrice": 55,
+    "sizes": [
+      {
+        "stock": 4,
+        "size": "TU"
+      },
+      {
+        "stock": 0,
+        "size": "P"
+      },
+      {
+        "stock": 0,
+        "size": "M"
+      },
+      {
+        "stock": 0,
+        "size": "G"
+      },
+      {
+        "stock": 0,
+        "size": "GG"
+      },
+      {
+        "stock": 0,
+        "size": "XG"
+      }
+    ],
+    "imageSource": "random",
+    "category": "Vestidos",
+    "updatedAt": "2026-06-09T17:07:35.412Z"
+  },
+  {
+    "id": "PcFyXrbaq86LCP0F35H7",
+    "plusSized": false,
+    "name": "Vestido Regata",
+    "sku": "WNTFMRIVH8",
+    "costPrice": 21,
+    "salePrice": 60,
+    "createdAt": "2026-02-18T15:06:41.657Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 3
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 3,
+    "imageSource": "none",
+    "category": "Vestidos",
+    "updatedAt": "2026-06-09T17:07:35.412Z"
+  },
+  {
+    "id": "25yn6b3osdEWKi1AtnZM",
+    "plusSized": true,
+    "name": "Vestido Regata V Plus",
+    "sku": "J9L2VOYVWE",
+    "costPrice": 25,
+    "salePrice": 75,
+    "createdAt": "2026-02-13T14:31:18.564Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 1
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      },
+      {
+        "size": "G1",
+        "stock": 0
+      },
+      {
+        "size": "G2",
+        "stock": 0
+      },
+      {
+        "size": "G3",
+        "stock": 0
+      }
+    ],
+    "stock": 1,
+    "imageSource": "none",
+    "category": "Vestidos",
+    "updatedAt": "2026-06-09T17:07:35.412Z"
+  },
+  {
+    "id": "N5ystwMkxBhYxzWn2ZzS",
+    "plusSized": false,
+    "name": "Vestido Renda",
+    "sku": "FM3CN1T986",
+    "costPrice": 30,
+    "salePrice": 80,
+    "createdAt": "2026-04-06T22:27:52.490Z",
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 2
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 2,
+    "imageSource": "none",
+    "category": "Vestidos",
+    "updatedAt": "2026-06-09T17:07:35.412Z"
+  },
+  {
+    "id": "gc1qnoEf154l02ARqDse",
+    "plusSized": false,
+    "createdAt": "2026-05-25T21:00:29.084Z",
+    "sizes": [
+      {
+        "stock": 2,
+        "size": "TU"
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "stock": 0,
+        "size": "M"
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "stock": 0,
+        "size": "GG"
+      },
+      {
+        "stock": 0,
+        "size": "XG"
+      }
+    ],
+    "stock": 2,
+    "salePrice": 120,
+    "sku": "VBPTE17TCY",
+    "costPrice": 50,
+    "name": "Vestido Transparente",
+    "image": "https://picsum.photos/seed/1779742815239/400/400",
+    "imageSource": "random",
+    "category": "Vestidos",
+    "updatedAt": "2026-06-09T17:07:35.412Z"
+  },
+  {
+    "id": "3gmbwSdfw7aR1xlbJsdS",
+    "plusSized": false,
+    "ownerId": "owner-1",
+    "costPrice": 30,
+    "createdAt": "2026-01-17T15:46:49.767Z",
+    "sku": "Q7L9XK2MZA",
+    "name": "Vestidos Curtos (Legado)",
+    "salePrice": 74.99,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 4
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 4,
+    "imageSource": "none",
+    "category": "Vestidos",
+    "updatedAt": "2026-06-09T17:07:35.412Z"
+  },
+  {
+    "id": "zUlfTLX4VFk7wU3pFnpQ",
+    "plusSized": false,
+    "ownerId": "owner-1",
+    "costPrice": 35,
+    "createdAt": "2026-01-17T15:47:48.351Z",
+    "sku": "K2ZL9QX7MA",
+    "name": "Vestidos Longos (Legado)",
+    "salePrice": 89.99,
+    "sizes": [
+      {
+        "size": "TU",
+        "stock": 6
+      },
+      {
+        "size": "P",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "size": "G",
+        "stock": 0
+      },
+      {
+        "size": "GG",
+        "stock": 0
+      },
+      {
+        "size": "XG",
+        "stock": 0
+      }
+    ],
+    "stock": 7,
+    "imageSource": "none",
+    "category": "Vestidos",
+    "updatedAt": "2026-06-09T17:07:35.412Z"
+  }
+]
