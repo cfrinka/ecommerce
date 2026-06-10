@@ -2,11 +2,12 @@ FROM node:20-alpine AS base
 
 # Install dependencies only when needed
 FROM base AS deps
+# Cache bust: v2
 RUN apk add --no-cache libc6-compat python3 make g++
 WORKDIR /app
 
 COPY package.json package-lock.json* ./
-RUN npm install --frozen-lockfile || npm install
+RUN npm install
 
 # Rebuild the source code only when needed
 FROM base AS builder
