@@ -10,6 +10,8 @@ interface Banner {
   subtitle: string | null;
   image_url: string;
   link_url: string;
+  show_title: number;
+  show_button: number;
 }
 
 export function Carousel({ banners, shopNow }: { banners: Banner[]; shopNow: string }) {
@@ -49,20 +51,30 @@ export function Carousel({ banners, shopNow }: { banners: Banner[]; shopNow: str
               className="absolute inset-0 h-full w-full object-cover"
               onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }}
             />
-            <div className="absolute inset-0 bg-[#282828]/40" />
-            <div className="absolute inset-0 flex flex-col items-center justify-center px-4 text-center">
-              <h2 className="font-display text-5xl tracking-wide text-[#f5f3f0] drop-shadow-lg sm:text-7xl">
-                {banner.title}
-              </h2>
-              {banner.subtitle && (
-                <p className="mt-4 max-w-lg text-lg text-[#f5f3f0]/90 drop-shadow-md">
-                  {banner.subtitle}
-                </p>
-              )}
-              <span className="mt-8 inline-block rounded-sm border border-[#f5f3f0]/60 bg-[#282828]/30 px-8 py-3 text-sm font-semibold text-[#f5f3f0] backdrop-blur-sm transition hover:bg-[#f5f3f0] hover:text-[#282828]">
-                {shopNow}
-              </span>
-            </div>
+            {(banner.show_title || banner.show_button) && (
+              <>
+                <div className="absolute inset-0 bg-[#282828]/40" />
+                <div className="absolute inset-0 flex flex-col items-center justify-center px-4 text-center">
+                  {banner.show_title ? (
+                    <>
+                      <h2 className="font-display text-5xl tracking-wide text-[#f5f3f0] drop-shadow-lg sm:text-7xl">
+                        {banner.title}
+                      </h2>
+                      {banner.subtitle && (
+                        <p className="mt-4 max-w-lg text-lg text-[#f5f3f0]/90 drop-shadow-md">
+                          {banner.subtitle}
+                        </p>
+                      )}
+                    </>
+                  ) : null}
+                  {banner.show_button ? (
+                    <span className={`${banner.show_title ? 'mt-8' : ''} inline-block rounded-sm border border-[#f5f3f0]/60 bg-[#282828]/30 px-8 py-3 text-sm font-semibold text-[#f5f3f0] backdrop-blur-sm transition hover:bg-[#f5f3f0] hover:text-[#282828]`}>
+                      {shopNow}
+                    </span>
+                  ) : null}
+                </div>
+              </>
+            )}
           </Link>
         ))}
       </div>
@@ -71,15 +83,15 @@ export function Carousel({ banners, shopNow }: { banners: Banner[]; shopNow: str
         <>
           <button
             onClick={(e) => { e.preventDefault(); prev(); }}
-            className="absolute left-4 top-1/2 -translate-y-1/2 rounded-full bg-[#f5f3f0]/10 p-2 backdrop-blur-sm transition hover:bg-[#f5f3f0]/20"
+            className="absolute left-4 top-1/2 -translate-y-1/2 rounded-full bg-white/90 p-3 shadow-lg transition hover:bg-white hover:scale-110"
           >
-            <ChevronLeft className="h-5 w-5 text-[#f5f3f0]" strokeWidth={1.5} />
+            <ChevronLeft className="h-6 w-6 text-[#282828]" strokeWidth={2} />
           </button>
           <button
             onClick={(e) => { e.preventDefault(); next(); }}
-            className="absolute right-4 top-1/2 -translate-y-1/2 rounded-full bg-[#f5f3f0]/10 p-2 backdrop-blur-sm transition hover:bg-[#f5f3f0]/20"
+            className="absolute right-4 top-1/2 -translate-y-1/2 rounded-full bg-white/90 p-3 shadow-lg transition hover:bg-white hover:scale-110"
           >
-            <ChevronRight className="h-5 w-5 text-[#f5f3f0]" strokeWidth={1.5} />
+            <ChevronRight className="h-6 w-6 text-[#282828]" strokeWidth={2} />
           </button>
 
           <div className="absolute bottom-6 left-1/2 flex -translate-x-1/2 gap-2">

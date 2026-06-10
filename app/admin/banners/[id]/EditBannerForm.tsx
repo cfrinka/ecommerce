@@ -1,8 +1,9 @@
 'use client';
 
-import { useActionState } from 'react';
+import { useActionState, useState } from 'react';
 import { updateBanner, deleteBanner } from '../../../actions/banners';
 import Link from 'next/link';
+import { X } from 'lucide-react';
 
 export function EditBannerForm({
   banner,
@@ -13,6 +14,8 @@ export function EditBannerForm({
     subtitle: string | null;
     image_url: string;
     link_url: string;
+    show_title: number;
+    show_button: number;
     active: number;
     sort_order: number;
   };
@@ -48,9 +51,19 @@ export function EditBannerForm({
           <input id="sort_order" name="sort_order" type="number" defaultValue={banner.sort_order} className="mt-2 w-full rounded-sm border border-[#ddd] bg-[#f5f3f0] px-3 py-2 text-sm text-[#282828] focus:outline-none focus:ring-1 focus:ring-[#282828]" />
         </div>
       </div>
-      <div className="flex items-center gap-2">
-        <input id="active" name="active" type="checkbox" defaultChecked={!!banner.active} value="1" className="h-4 w-4 accent-[#282828]" />
-        <label htmlFor="active" className="text-sm font-semibold text-[#282828]">Active</label>
+      <div className="flex flex-wrap items-center gap-6">
+        <div className="flex items-center gap-2">
+          <input id="show_title" name="show_title" type="checkbox" defaultChecked={!!banner.show_title} value="1" className="h-4 w-4 accent-[#282828]" />
+          <label htmlFor="show_title" className="text-sm font-semibold text-[#282828]">Show Title</label>
+        </div>
+        <div className="flex items-center gap-2">
+          <input id="show_button" name="show_button" type="checkbox" defaultChecked={!!banner.show_button} value="1" className="h-4 w-4 accent-[#282828]" />
+          <label htmlFor="show_button" className="text-sm font-semibold text-[#282828]">Show Button</label>
+        </div>
+        <div className="flex items-center gap-2">
+          <input id="active" name="active" type="checkbox" defaultChecked={!!banner.active} value="1" className="h-4 w-4 accent-[#282828]" />
+          <label htmlFor="active" className="text-sm font-semibold text-[#282828]">Active</label>
+        </div>
       </div>
 
       <div className="flex items-center gap-4">
@@ -67,17 +80,61 @@ export function EditBannerForm({
   );
 }
 
-export function DeleteBannerButton({ id }: { id: number }) {
+export function DeleteBannerButton({ id, title }: { id: number; title: string }) {
+  const [open, setOpen] = useState(false);
+  const [deleting, setDeleting] = useState(false);
+
+  async function handleDelete() {
+    setDeleting(true);
+    await deleteBanner(id);
+  }
+
   return (
-    <form
-      action={() => deleteBanner(id)}
-      onSubmit={(e) => {
-        if (!confirm('Are you sure you want to delete this banner?')) e.preventDefault();
-      }}
-    >
-      <button type="submit" className="text-sm font-semibold text-[#be1622] transition hover:text-[#282828]">
+    <>
+      <button
+        type="button"
+        onClick={() => setOpen(true)}
+        className="text-sm font-semibold text-[#be1622] transition hover:text-[#282828]"
+      >
         Delete Banner
       </button>
-    </form>
+
+      {open && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50">
+          <div className="relative w-full max-w-md rounded-sm bg-[#faf9f7] p-6 shadow-xl">
+            <button
+              type="button"
+              onClick={() => setOpen(false)}
+              className="absolute right-4 top-4 text-[#282828]/60 transition hover:text-[#282828]"
+            >
+              <X className="h-5 w-5" />
+            </button>
+
+            <h2 className="font-display text-2xl tracking-wide text-[#282828]">Delete Banner</h2>
+            <p className="mt-3 text-sm text-[#282828]/70">
+              Are you sure you want to delete <strong className="text-[#282828]">"{title}"</strong>? This action cannot be undone.
+            </p>
+
+            <div className="mt-6 flex items-center gap-3">
+              <button
+                type="button"
+                onClick={handleDelete}
+                disabled={deleting}
+                className="rounded-sm bg-[#be1622] px-5 py-2.5 text-sm font-semibold text-white transition hover:bg-[#282828] disabled:opacity-50"
+              >
+                {deleting ? 'Deleting...' : 'Delete'}
+              </button>
+              <button
+                type="button"
+                onClick={() => setOpen(false)}
+                className="rounded-sm border border-[#ddd] bg-white px-5 py-2.5 text-sm font-semibold text-[#282828] transition hover:bg-[#f5f3f0]"
+              >
+                Cancel
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
+    </>
   );
 }

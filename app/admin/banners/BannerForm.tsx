@@ -50,9 +50,19 @@ export function BannerForm() {
               <input id="sort_order" name="sort_order" type="number" defaultValue={0} className="mt-2 w-full rounded-sm border border-[#ddd] bg-[#f5f3f0] px-3 py-2 text-sm text-[#282828] focus:outline-none focus:ring-1 focus:ring-[#282828]" />
             </div>
           </div>
-          <div className="flex items-center gap-2">
-            <input id="active" name="active" type="checkbox" defaultChecked value="1" className="h-4 w-4 accent-[#282828]" />
-            <label htmlFor="active" className="text-sm font-semibold text-[#282828]">Active</label>
+          <div className="flex flex-wrap items-center gap-6">
+            <div className="flex items-center gap-2">
+              <input id="show_title" name="show_title" type="checkbox" defaultChecked value="1" className="h-4 w-4 accent-[#282828]" />
+              <label htmlFor="show_title" className="text-sm font-semibold text-[#282828]">Show Title</label>
+            </div>
+            <div className="flex items-center gap-2">
+              <input id="show_button" name="show_button" type="checkbox" defaultChecked value="1" className="h-4 w-4 accent-[#282828]" />
+              <label htmlFor="show_button" className="text-sm font-semibold text-[#282828]">Show Button</label>
+            </div>
+            <div className="flex items-center gap-2">
+              <input id="active" name="active" type="checkbox" defaultChecked value="1" className="h-4 w-4 accent-[#282828]" />
+              <label htmlFor="active" className="text-sm font-semibold text-[#282828]">Active</label>
+            </div>
           </div>
 
           <button

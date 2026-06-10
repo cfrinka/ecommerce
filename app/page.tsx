@@ -5,11 +5,64 @@ import { getLocale } from "./lib/server-locale";
 import { getDictionary } from "./lib/i18n";
 import { Carousel } from "./components/Carousel";
 
-export default async function Home() {
+export const dynamic = 'force-dynamic';
+
+const PRODUCTS_PER_PAGE = 12;
+
+export default async function Home({
+  searchParams,
+}: {
+  searchParams: Promise<{ category?: string; page?: string }>;
+}) {
   const db = getDb();
-  const products = db.prepare(
-    "SELECT id, name, description, price, image, category FROM products WHERE active = 1 ORDER BY id"
-  ).all() as { id: number; name: string; description: string; price: number; image: string; category: string }[];
+  const sp = await searchParams;
+  const category = sp.category || 'all';
+  const page = parseInt(sp.page || '1', 10);
+  const offset = (page - 1) * PRODUCTS_PER_PAGE;
+
+  // Get all unique categories, sorted alphabetically with 'Outros' at the end
+  const rawCategories = db.prepare(
+    "SELECT DISTINCT category FROM products WHERE active = 1 ORDER BY category"
+  ).all() as { category: string }[];
+  
+  const categories = rawCategories.sort((a, b) => {
+    if (a.category === 'Outros') return 1;
+    if (b.category === 'Outros') return -1;
+    return a.category.localeCompare(b.category, 'pt-BR');
+  });
+
+  // Build query with category filter
+  let query = "SELECT id, name, description, price, image, category FROM products WHERE active = 1";
+  const params: any[] = [];
+
+  if (category !== 'all') {
+    query += " AND category = ?";
+    params.push(category);
+  }
+
+  query += " ORDER BY id LIMIT ? OFFSET ?";
+  params.push(PRODUCTS_PER_PAGE, offset);
+
+  const products = db.prepare(query).all(...params) as {
+    id: number;
+    name: string;
+    description: string;
+    price: number;
+    image: string;
+    category: string;
+  }[];
+
+  // Get total count for pagination
+  let countQuery = "SELECT COUNT(*) as count FROM products WHERE active = 1";
+  const countParams: any[] = [];
+
+  if (category !== 'all') {
+    countQuery += " AND category = ?";
+    countParams.push(category);
+  }
+
+  const { count } = db.prepare(countQuery).get(...countParams) as { count: number };
+  const totalPages = Math.ceil(count / PRODUCTS_PER_PAGE);
 
   const banners = await getBanners();
   const locale = await getLocale();
@@ -27,6 +80,33 @@ export default async function Home() {
           </div>
         </div>
 
+        {/* Category Filter Buttons */}
+        <div className="mb-8 flex flex-wrap gap-2">
+          <Link
+            href="/"
+            className={`rounded-sm px-4 py-2 text-sm font-semibold transition ${
+              category === 'all'
+                ? 'bg-[#282828] text-[#f5f3f0]'
+                : 'border border-[#ddd] bg-[#faf9f7] text-[#282828] hover:bg-[#282828] hover:text-[#f5f3f0]'
+            }`}
+          >
+            {(t.categories as Record<string, string>)['all'] || 'All'}
+          </Link>
+          {categories.map((cat) => (
+            <Link
+              key={cat.category}
+              href={`?category=${encodeURIComponent(cat.category)}&page=1`}
+              className={`rounded-sm px-4 py-2 text-sm font-semibold transition ${
+                category === cat.category
+                  ? 'bg-[#282828] text-[#f5f3f0]'
+                  : 'border border-[#ddd] bg-[#faf9f7] text-[#282828] hover:bg-[#282828] hover:text-[#f5f3f0]'
+              }`}
+            >
+              {(t.categories as Record<string, string>)[cat.category] || cat.category}
+            </Link>
+          ))}
+        </div>
+
         <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
           {products.map((product) => (
             <Link
@@ -42,7 +122,7 @@ export default async function Home() {
                 />
               </div>
               <div className="p-5">
-                <p className="text-xs font-semibold tracking-wider text-[#be1622] uppercase">{product.category}</p>
+                <p className="text-xs font-semibold tracking-wider text-[#be1622] uppercase">{(t.categories as Record<string, string>)[product.category] || product.category}</p>
                 <h3 className="mt-1 text-lg font-semibold text-[#282828] group-hover:text-[#be1622] transition">
                   {product.name}
                 </h3>
@@ -56,6 +136,41 @@ export default async function Home() {
             </Link>
           ))}
         </div>
+
+        {/* Pagination */}
+        {totalPages > 1 && (
+          <div className="mt-12 flex items-center justify-center gap-2">
+            {page > 1 && (
+              <Link
+                href={category === 'all' ? `?page=${page - 1}` : `?category=${encodeURIComponent(category)}&page=${page - 1}`}
+                className="rounded-sm border border-[#ddd] bg-[#faf9f7] px-4 py-2 text-sm font-semibold text-[#282828] transition hover:bg-[#282828] hover:text-[#f5f3f0]"
+              >
+                Previous
+              </Link>
+            )}
+            {Array.from({ length: totalPages }, (_, i) => i + 1).map((pageNum) => (
+              <Link
+                key={pageNum}
+                href={category === 'all' ? `?page=${pageNum}` : `?category=${encodeURIComponent(category)}&page=${pageNum}`}
+                className={`rounded-sm px-4 py-2 text-sm font-semibold transition ${
+                  pageNum === page
+                    ? 'bg-[#282828] text-[#f5f3f0]'
+                    : 'border border-[#ddd] bg-[#faf9f7] text-[#282828] hover:bg-[#282828] hover:text-[#f5f3f0]'
+                }`}
+              >
+                {pageNum}
+              </Link>
+            ))}
+            {page < totalPages && (
+              <Link
+                href={category === 'all' ? `?page=${page + 1}` : `?category=${encodeURIComponent(category)}&page=${page + 1}`}
+                className="rounded-sm border border-[#ddd] bg-[#faf9f7] px-4 py-2 text-sm font-semibold text-[#282828] transition hover:bg-[#282828] hover:text-[#f5f3f0]"
+              >
+                Next
+              </Link>
+            )}
+          </div>
+        )}
       </section>
     </div>
   );

@@ -1,6 +1,7 @@
 'use server';
 
 import { revalidatePath } from 'next/cache';
+import { redirect } from 'next/navigation';
 import { getDb } from '@/app/lib/db';
 import { requireAdmin } from '@/app/lib/auth';
 
@@ -17,16 +18,16 @@ async function readBannerImage(formData: FormData): Promise<{ image_blob: Buffer
 export async function getBanners() {
   const db = getDb();
   return db.prepare(
-    'SELECT id, title, subtitle, image_url, link_url, active, sort_order FROM banners WHERE active = 1 ORDER BY sort_order'
-  ).all() as { id: number; title: string; subtitle: string | null; image_url: string; link_url: string; active: number; sort_order: number }[];
+    'SELECT id, title, subtitle, image_url, link_url, show_title, show_button, active, sort_order FROM banners WHERE active = 1 ORDER BY sort_order'
+  ).all() as { id: number; title: string; subtitle: string | null; image_url: string; link_url: string; show_title: number; show_button: number; active: number; sort_order: number }[];
 }
 
 export async function getAllBanners() {
   await requireAdmin();
   const db = getDb();
   return db.prepare(
-    'SELECT id, title, subtitle, image_url, link_url, active, sort_order FROM banners ORDER BY sort_order'
-  ).all() as { id: number; title: string; subtitle: string | null; image_url: string; link_url: string; active: number; sort_order: number }[];
+    'SELECT id, title, subtitle, image_url, link_url, show_title, show_button, active, sort_order FROM banners ORDER BY sort_order'
+  ).all() as { id: number; title: string; subtitle: string | null; image_url: string; link_url: string; show_title: number; show_button: number; active: number; sort_order: number }[];
 }
 
 export async function createBanner(formData: FormData) {
@@ -34,7 +35,7 @@ export async function createBanner(formData: FormData) {
   const img = await readBannerImage(formData);
   const db = getDb();
   db.prepare(
-    'INSERT INTO banners (title, subtitle, image_url, image_blob, image_type, link_url, active, sort_order) VALUES (?, ?, ?, ?, ?, ?, ?, ?)'
+    'INSERT INTO banners (title, subtitle, image_url, image_blob, image_type, link_url, show_title, show_button, active, sort_order) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)'
   ).run(
     formData.get('title') as string,
     formData.get('subtitle') as string || null,
@@ -42,6 +43,8 @@ export async function createBanner(formData: FormData) {
     img.image_blob,
     img.image_type,
     formData.get('link_url') as string || '/',
+    formData.get('show_title') ? 1 : 0,
+    formData.get('show_button') ? 1 : 0,
     formData.get('active') ? 1 : 0,
     parseInt(formData.get('sort_order') as string) || 0
   );
@@ -56,7 +59,7 @@ export async function updateBanner(id: number, _prevState: unknown, formData: Fo
 
   if (img.image_blob) {
     db.prepare(
-      'UPDATE banners SET title = ?, subtitle = ?, image_url = ?, image_blob = ?, image_type = ?, link_url = ?, active = ?, sort_order = ? WHERE id = ?'
+      'UPDATE banners SET title = ?, subtitle = ?, image_url = ?, image_blob = ?, image_type = ?, link_url = ?, show_title = ?, show_button = ?, active = ?, sort_order = ? WHERE id = ?'
     ).run(
       formData.get('title') as string,
       formData.get('subtitle') as string || null,
@@ -64,18 +67,22 @@ export async function updateBanner(id: number, _prevState: unknown, formData: Fo
       img.image_blob,
       img.image_type,
       formData.get('link_url') as string || '/',
+      formData.get('show_title') ? 1 : 0,
+      formData.get('show_button') ? 1 : 0,
       formData.get('active') ? 1 : 0,
       parseInt(formData.get('sort_order') as string) || 0,
       id
     );
   } else {
     db.prepare(
-      'UPDATE banners SET title = ?, subtitle = ?, image_url = ?, link_url = ?, active = ?, sort_order = ? WHERE id = ?'
+      'UPDATE banners SET title = ?, subtitle = ?, image_url = ?, link_url = ?, show_title = ?, show_button = ?, active = ?, sort_order = ? WHERE id = ?'
     ).run(
       formData.get('title') as string,
       formData.get('subtitle') as string || null,
       img.image_url || '',
       formData.get('link_url') as string || '/',
+      formData.get('show_title') ? 1 : 0,
+      formData.get('show_button') ? 1 : 0,
       formData.get('active') ? 1 : 0,
       parseInt(formData.get('sort_order') as string) || 0,
       id
@@ -91,4 +98,5 @@ export async function deleteBanner(id: number) {
   db.prepare('DELETE FROM banners WHERE id = ?').run(id);
   revalidatePath('/');
   revalidatePath('/admin/banners');
+  redirect('/admin/banners');
 }

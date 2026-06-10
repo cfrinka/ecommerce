@@ -11,6 +11,7 @@ export function AddToCartButton({
   price,
   image,
   sizes,
+  sizeStock,
   locale,
 }: {
   productId: number;
@@ -18,13 +19,16 @@ export function AddToCartButton({
   price: number;
   image: string;
   sizes: string[];
+  sizeStock: Record<string, number>;
   locale: Locale;
 }) {
   const t = getDictionary(locale);
   const { addItem } = useCart();
   const [added, setAdded] = useState(false);
   const [quantity, setQuantity] = useState(1);
-  const [size, setSize] = useState(sizes[0] || 'M');
+  // Find first size with stock, or fallback to first size
+  const firstAvailableSize = sizes.find((s) => (sizeStock[s] ?? 0) > 0) || sizes[0] || 'M';
+  const [size, setSize] = useState(firstAvailableSize);
 
   function handleAdd() {
     addItem({ productId, name, price, image, size, quantity });
@@ -36,21 +40,27 @@ export function AddToCartButton({
     <div className="mt-8 space-y-6">
       <div>
         <p className="text-xs font-semibold tracking-wider text-[#282828]/70 uppercase">{t.product.size}</p>
-        <div className="mt-3 flex gap-2">
-          {sizes.map((s) => (
-            <button
-              key={s}
-              type="button"
-              onClick={() => setSize(s)}
-              className={`inline-flex h-11 w-11 items-center justify-center rounded-sm border text-sm font-medium tracking-wider transition ${
-                size === s
-                  ? 'border-[#282828] bg-[#282828] text-[#f5f3f0]'
-                  : 'border-[#ddd] text-[#282828] hover:border-[#282828]'
-              }`}
-            >
-              {s}
-            </button>
-          ))}
+        <div className="mt-3 flex flex-wrap gap-2">
+          {sizes.map((s) => {
+            const inStock = (sizeStock[s] ?? 0) > 0;
+            return (
+              <button
+                key={s}
+                type="button"
+                onClick={() => inStock && setSize(s)}
+                disabled={!inStock}
+                className={`inline-flex h-11 w-11 items-center justify-center rounded-sm border text-sm font-medium tracking-wider transition ${
+                  !inStock
+                    ? 'border-[#ddd] bg-[#f5f3f0] text-[#282828]/30 cursor-not-allowed line-through'
+                    : size === s
+                    ? 'border-[#282828] bg-[#282828] text-[#f5f3f0]'
+                    : 'border-[#ddd] text-[#282828] hover:border-[#282828]'
+                }`}
+              >
+                {s}
+              </button>
+            );
+          })}
         </div>
       </div>
 
@@ -75,7 +85,12 @@ export function AddToCartButton({
 
         <button
           onClick={handleAdd}
-          className="flex h-11 flex-1 items-center justify-center gap-2 rounded-sm bg-[#282828] px-8 text-sm font-medium tracking-widest text-[#f5f3f0] transition hover:bg-[#be1622]"
+          disabled={(sizeStock[size] ?? 0) === 0}
+          className={`flex h-11 flex-1 items-center justify-center gap-2 rounded-sm px-8 text-sm font-medium tracking-widest transition ${
+            (sizeStock[size] ?? 0) === 0
+              ? 'bg-[#ddd] text-[#282828]/40 cursor-not-allowed'
+              : 'bg-[#282828] text-[#f5f3f0] hover:bg-[#be1622]'
+          }`}
         >
           {added ? <Check className="h-4 w-4" strokeWidth={1.5} /> : <ShoppingCart className="h-4 w-4" strokeWidth={1.5} />}
           {added ? t.product.added : t.product.addToCart}

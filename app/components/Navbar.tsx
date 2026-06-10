@@ -16,8 +16,7 @@ export async function Navbar() {
     <header className="sticky top-0 z-50 border-b border-[#ddd] bg-[#f5f3f0]/90 backdrop-blur-md">
       <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3">
         <Link href="/" className="flex items-center gap-2">
-          <Image src="/assets/logo.svg" alt="BENE" width={40} height={40} className="h-10 w-auto" />
-          <span className="font-display text-2xl tracking-wide text-[#282828]">BENE</span>
+          <Image src="/assets/logo.svg" alt="BENE" width={40} height={40} className="h-20 w-auto" />
         </Link>
 
         <nav className="flex items-center gap-5">
