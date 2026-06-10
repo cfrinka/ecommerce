@@ -7,4 +7,7 @@ npm-debug.log
 .gitignore
 README.md
 .env*.local
-data
+data/*.db
+data/*.db-wal
+data/*.db-shm
+!data/products-seed.json
